@@ -17,6 +17,7 @@ nav_order: 10
 ## Tools
 - [PL Conference Deadlines](https://yeah-tiger.github.io/)
 - [Doctoral Students Funding Calendar](https://kn1cht.github.io/doctor-funding-calendar/) (for PhD students in Japan)
+- [ACM Digital Library](https://dl.acm.org/profile/99659304893)
 
 <br>
 

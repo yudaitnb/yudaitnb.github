@@ -107,7 +107,6 @@
           >{{more_authors_hide}}</span>
         {%- endif -%}
 
-
         {% assign editor_array_size = entry.editor_array | size %}
 
         {% assign editor_array_limit = editor_array_size %}
@@ -115,71 +114,74 @@
           {% assign editor_array_limit = site.max_editor_limit %}
         {% endif %}
 
-        {%- for editor in entry.editor_array limit: editor_array_limit -%}
-          {%- assign editor_is_self = false -%}
-          {%- assign editor_last_name = editor.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
-          {%- if site.scholar.last_name contains editor_last_name -%}
-            {%- if site.scholar.first_name contains editor.first -%}
-              {%- assign editor_is_self = true -%}
-            {%- endif -%}
-          {%- endif -%}
-          {%- assign coeditor_url = nil -%}
-          {%- if site.data.coeditors[editor_last_name] -%}
-            {%- for coeditor in site.data.coeditors[editor_last_name] -%}
-              {%- if coeditor.firstname contains editor.first -%}
-                {%- assign coeditor_url = coeditor.url -%}
-                {%- break -%}
+
+        {%- if editor_array_limit > 0 and author_array_limit == 0 %}
+          Edited by&nbsp;
+          {%- for editor in entry.editor_array limit: editor_array_limit -%}
+            {%- assign editor_is_self = false -%}
+            {%- assign editor_last_name = editor.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
+            {%- if site.scholar.last_name contains editor_last_name -%}
+              {%- if site.scholar.first_name contains editor.first -%}
+                {%- assign editor_is_self = true -%}
               {%- endif -%}
-            {%- endfor -%}
-          {%- endif -%}
-
-          {%- if forloop.length > 1 -%}
-            {%- if forloop.first == false -%},&nbsp;{%- endif -%}
-            {%- if forloop.last and editor_array_limit == editor_array_size -%}and&nbsp;{%- endif -%}
-          {%- endif -%}
-          {%- if editor_is_self -%}
-            <em>{{editor.first}} {{editor.last}}</em>
-          {%- else -%}
-            {%- if coeditor_url -%}
-              <a href="{{coeditor_url}}">{{editor.first}} {{editor.last}}</a>
-            {%- else -%}
-              {{editor.first}} {{editor.last}}
             {%- endif -%}
-          {%- endif -%}
-        {%- endfor -%}
-        {%- assign more_editors = editor_array_size | minus: editor_array_limit -%}
+            {%- assign coeditor_url = nil -%}
+            {%- if site.data.coeditors[editor_last_name] -%}
+              {%- for coeditor in site.data.coeditors[editor_last_name] -%}
+                {%- if coeditor.firstname contains editor.first -%}
+                  {%- assign coeditor_url = coeditor.url -%}
+                  {%- break -%}
+                {%- endif -%}
+              {%- endfor -%}
+            {%- endif -%}
 
-        {%- assign more_editors_hide = more_editors | append: " more editor" -%}
-        {%- if more_editors > 0 -%}
-          {%- if more_editors > 1 -%}
-            {%- assign more_editors_hide = more_editors_hide | append: "s" -%}
-          {%- endif -%}
-          {%- assign more_editors_show = '' -%}
-          {%- for editor in entry.editor_array offset: editor_array_limit -%}
-            {%- assign more_editors_show = more_editors_show | append: editor.first | append: " " | append: editor.last -%}
-            {%- unless forloop.last -%}
-              {%- assign more_editors_show = more_editors_show | append: ", " -%}
-            {%- endunless -%}
+            {%- if forloop.length > 1 -%}
+              {%- if forloop.first == false -%},&nbsp;{%- endif -%}
+              {%- if forloop.last and editor_array_limit == editor_array_size -%}and&nbsp;{%- endif -%}
+            {%- endif -%}
+            {%- if editor_is_self -%}
+              <em>{{editor.first}} {{editor.last}}</em>
+            {%- else -%}
+              {%- if coeditor_url -%}
+                <a href="{{coeditor_url}}">{{editor.first}} {{editor.last}}</a>
+              {%- else -%}
+                {{editor.first}} {{editor.last}}
+              {%- endif -%}
+            {%- endif -%}
           {%- endfor -%}
-          , and
-          <span
-              class="more-authors"
-              title="click to view {{more_editors_hide}}"
-              onclick="
-                var element = $(this);
-                element.attr('title', '');
-                var more_editors_text = element.text() == '{{more_editors_hide}}' ? '{{more_editors_show}}' : '{{more_editors_hide}}';
-                var cursorPosition = 0;
-                var textAdder = setInterval(function(){
-                  element.text(more_editors_text.substring(0, cursorPosition + 1));
-                  if (++cursorPosition == more_editors_text.length){
-                    clearInterval(textAdder);
-                  }
-              }, '{{site.more_authors_animation_delay}}');
-              "
-          >{{more_editors_hide}}</span>
-        {%- endif -%}
+          {%- assign more_editors = editor_array_size | minus: editor_array_limit -%}
 
+          {%- assign more_editors_hide = more_editors | append: " more editor" -%}
+          {%- if more_editors > 0 -%}
+            {%- if more_editors > 1 -%}
+              {%- assign more_editors_hide = more_editors_hide | append: "s" -%}
+            {%- endif -%}
+            {%- assign more_editors_show = '' -%}
+            {%- for editor in entry.editor_array offset: editor_array_limit -%}
+              {%- assign more_editors_show = more_editors_show | append: editor.first | append: " " | append: editor.last -%}
+              {%- unless forloop.last -%}
+                {%- assign more_editors_show = more_editors_show | append: ", " -%}
+              {%- endunless -%}
+            {%- endfor -%}
+            , and
+            <span
+                class="more-authors"
+                title="click to view {{more_editors_hide}}"
+                onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_editors_text = element.text() == '{{more_editors_hide}}' ? '{{more_editors_show}}' : '{{more_editors_hide}}';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_editors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_editors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '{{site.more_authors_animation_delay}}');
+                "
+            >{{more_editors_hide}}</span>
+          {%- endif -%}
+        {%- endif -%}
 
         </div>
 
