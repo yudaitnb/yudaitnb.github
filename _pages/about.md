@@ -22,10 +22,6 @@ social: true  # includes social icons at the bottom of the page
 I'm a postdoctoral researcher of [Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en), Department of Communications and Computer Engineering,
 Graduate School of Informatics, Kyoto University. I got doctor of science at Tokyo Institute of Technology under the supervision of [Prof. Hidehiko Masuhara](http://prg.is.titech.ac.jp/people/masuhara/). I am also a member of [Association for Computing Machinery](https://www.acm.org/).
 
- - [researchmap](https://researchmap.jp/yudaitanabe?lang=en)
- - [ACM Digital Library](https://dl.acm.org/profile/99659304893)
- - [CV](/media/CV_Yudai_Tanabe.pdf)
-
 ### Research Interest
 My research interest is in the design of <b>programming languages</b> and <b>type systems</b>.
 I'm currently working on the following research projects.

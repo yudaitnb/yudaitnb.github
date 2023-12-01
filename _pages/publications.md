@@ -9,7 +9,14 @@ nav_order: 1
 <!-- _pages/publications.md -->
 
 In reversed chronological order.
-This list is also maintained in my <a href="https://scholar.google.co.jp/citations?user=rFnRl1gAAAAJ">Google Scholar</a> and <a href="https://researchmap.jp/yudaitanabe?lang=en">researchmap</a>.
+This list is also maintained in
+
+- <a href="https://scholar.google.co.jp/citations?user=rFnRl1gAAAAJ">Google Scholar</a>, and
+- <a href="https://researchmap.jp/yudaitanabe?lang=en">researchmap</a>.
+
+See also:
+- [ACM Digital Library](https://dl.acm.org/profile/99659304893)
+
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
