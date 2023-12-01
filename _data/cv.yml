@@ -2,96 +2,162 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Yudai Tanabe
     - name: Languages
-      value: English, German
+      value: Japanese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctor of Science
+      institution: Department of Mathematical and Computing Science, School of Computing, Tokyo Institue of Technology.
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: A Programming Language with Versions
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - <a href="https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100886483">T2R2</a>
+            - <a href="https://www.cambridge.org/core/journals/journal-of-functional-programming/article/phd-abstracts/A32EE036508B4F3B309230D342DA7C2C">Phd Abstract, Journal of Functional Programming</a>
+    - title: Master of Science
+      institution: Department of Mathematical and Computing Science, School of Computing, Tokyo Institue of Technology.
+      year: 2020
+    - title: Bachelor of Science
+      institution: Department of Information Science, School of Science, Tokyo Institue of Technology.
+      year: 2018
 
-- title: Experience
+- title: Job Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Program-Specific Researcher (Grant-in-Aid for Scientific Research (A))
+      institution: <a href="https://www.fos.kuis.kyoto-u.ac.jp/">Computer Software Group</a>, Kyoto University
+      year: 2023 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00582/">Research on software contracts for highly interoperable software modules</a>
+
+    - title: JSPS Research Fellow (DC2)
+      institution: <a href="https://www.jsps.go.jp/english/e-pd/index.html">Japan Society for the Promotion of Science</a>
+      year: 2022 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22KJ1313/">KAKENHI 22KJ1313 / 22J14382</a>
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Tokyo Student Intern (paid, part-time)
+      institution: <a href="http://www.research.ibm.com/labs/tokyo/">IBM Research Tokyo</a>
+      year: 2021 - 2021
       description:
+        - Research & Development on a Java Compiler
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Research Assistant
+      institution: <a href="https://prg.is.titech.ac.jp/">Programming Group</a>, Tokyo Institute of Technology
+      year: 2021 - 2021
+      description:
+        - <a href="https://prg.is.titech.ac.jp/projects/software-development-environment/kanon/">Kanon, Live Programming for Data Structure Programming</a>
+        - <a href="https://github.com/prg-titech/Kanon">DEMO</a>
 
-- title: Open Source Projects
+    - title: Research Tokyo Student Intern (paid, part-time)
+      institution: <a href="http://www.research.ibm.com/labs/tokyo/">IBM Research Tokyo</a>
+      year: 2018 - 2018
+      description:
+        - Research & Development on a Java Compiler
+
+    - title: Editorial / Technical Assistant
+      institution: MYU Research
+      year: 2014 - 2022
+      description:
+        - Scientific Publication and Editing
+
+- title: Research Funds
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: プログラミング言語への意味的バージョンの導入による更新支援技術の研究
+      institution: <a href="https://www.jsps.go.jp/english/">Japan Society For the Promotion of Science (JSPS)</a>
+      year: 2023 - 2025
+      description:
+        - <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K19961/">KAKENHI 23K19961</a>
 
-- title: Honors and Awards
+    - title: バージョンを言語要素に持つプログラミング言語の開発
+      institution: <a href="https://www.jsps.go.jp/english/">Japan Society For the Promotion of Science (JSPS)</a>
+      year: 2022 - 2024
+      description:
+        - <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22KJ1313/">KAKENHI 22KJ1313 / 22J14382</a>
+        - Withdrawn in 2023 due to my transfer to Kyoto University.
+
+- title: Scholarship
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: <a href="https://www.jsps.go.jp/english/e-pd/index.html">JSPS Research Fellowship for Young Scientists (DC2)</a>
+      institution: <a href="https://www.jsps.go.jp/english/">Japan Society For the Promotion of Science (JSPS)</a>
+      year: 2022 - 2024
+      description:
+        - Withdrawn in 2023 due to my transfer to Kyoto University.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: <a href="https://www.titech.ac.jp/english/enrolled/tuition/tsubame_scholarship.html">Tokyo Tech Tsubame Scholarship</a>
+      institution: Tokyo Institute of Technology
+      year: 2020 - 2022
 
-- title: Other Interests
-  type: list
+- title: Academic Service (Reviewing)
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - year: 2024
+      items: 
+        - <a href="https://www.iccq.ru/2024.html">ICCQ</a> (Program Committee)
+    - year: 2023
+      items: 
+        - <a href="https://conf.researchr.org/track/apsec-2023/apsec-2023-student-research-competition">APSEC SRC</a> (Program Committee)
+        - <a href="https://conf.researchr.org/track/aplas-2023/src-and-posters">APLAS SRC & Posters</a> (Committee (Judge))
+        - <a href="https://conf.researchr.org/track/icsme-2023/icsme-2023-industry-track">ICSME Industry Track</a> (Program Committee)
+        - <a href="https://conf.researchr.org/track/COP-2023/COP-2023">COP</a> (Program Committee)
+        - <a href="https://www.iccq.ru/2023.html">ICCQ</a> (Program Committee)
+    - year: 2022
+      items: 
+        - <a href="https://2022.ecoop.org/home/COP-2022">COP</a> (Program Committee)
+        - <a href="https://peerj.com/computer-science/">PeerJ Computer Science</a> (Reviewer)
+    - year: 2021
+      items: 
+        - <a href="https://icfp21.sigplan.org/home/scheme-2021">Scheme</a> (Ex-reviewer)
+    - year: 2020
+      items: 
+        - <a href="https://2020.splashcon.org/track/splash-2020-Onward-Essays">Onward! Essays</a> (Co-reviewer)
+
+- title: Academic Service (Organizing and Others)
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - <a href="https://conf.researchr.org/track/COP-2023/COP-2023">COP</a> (Organizing Committee)
+    - year: 2022
+      items: 
+        - <a href="https://2022.ecoop.org/home/COP-2022">COP</a> (Organizing Committee)
+        - <a href="https://popl22.sigplan.org/home/pepm-2022">PEPM History Project</a> (Organizing Committee)
+    - year: 2021
+      items: 
+        - <a href="https://jssst-ppl.org/workshop/2021/">JSSST PPL</a> (Panelist (Social Event))
+    - year: 2020
+      items: 
+        - <a href="https://2020.splashcon.org/">SPLASH</a> (Student Volunteer)
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

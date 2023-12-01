@@ -1,6 +1,18 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"APLAS":
+  url: https://conf.researchr.org/series/APLAS
+  color: "#005aff"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"SLE":
+  url: https://conf.researchr.org/series/SLE
+  color: "#005aff"
+
+"‹Programming›":
+  url: https://programming-journal.org/
+  color: "#ff4b00"
+
+"COP":
+  url: https://conf.researchr.org/series/COP
+  color: "#990099"
+
+"Book":
+  color: "#804000"
