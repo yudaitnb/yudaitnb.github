@@ -25,12 +25,12 @@ I got Doctor of Science at Tokyo Institute of Technology under the supervision o
 I am also a member of [Association for Computing Machinery](https://www.acm.org/).
 
 ### Research Interest
-My research interest is <b>programming languages</b> and <b>type systems</b>.
+<!-- My research interest is <b>programming languages</b> and <b>type systems</b>.
 I'm currently working on the following research projects.
 - Developing a new language mechanism for compatibility & dependency analysis at an expression-level.
 - Gradual type systems that are introduced polymorphism in a space-efficient manner.
 
-<u>Keyword:</u> effect/coeffect systems, metaprogramming, gradual type systems
+<u>Keyword:</u> effect/coeffect systems, metaprogramming, gradual type systems -->
 
 My research interests are in <b>programming language design</b> and <b>programming language theory</b>.
 Currently, I am working on the following research projects:
