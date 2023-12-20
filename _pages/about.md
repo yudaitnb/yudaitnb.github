@@ -35,7 +35,7 @@ I'm currently working on the following research projects.
 My research interests are in <b>programming language design</b> and <b>programming language theory</b>.
 Currently, I am working on the following research projects:
 1. <i>Programming Language with Versions</i>: Research on a new language mechanism that incorporates versions into language semantics, which enables compatibility analysis and update support at the expression level, and on ensuring its safety.
-2. <i>Space-efficient polymorphic gradual typing</i>: Research on introducing polymorphism in a gradual type system in a space-efficient manner.
+2. <i>Space-efficient Polymorphic Gradual Typing</i>: Research on introducing polymorphism in a gradual type system in a space-efficient manner.
 3. <i>Safe Language Interoperability</i>: Research on a new verification method for programs developed in multiple languages.
 
 <!-- 
