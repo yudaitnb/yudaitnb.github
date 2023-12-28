@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a postdoctoral researcher of [Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en),
+I'm a program-specific researcher (postdoc) of [Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en),
 Department of Communications and Computer Engineering, Graduate School of Informatics, Kyoto University.
 I got Doctor of Science at Tokyo Institute of Technology under the supervision of [Prof. Hidehiko Masuhara](http://prg.is.titech.ac.jp/people/masuhara/).
 I am also a member of [Association for Computing Machinery](https://www.acm.org/).
