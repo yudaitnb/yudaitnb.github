@@ -64,7 +64,7 @@
       description:
         - Scientific Publication and Editing
 
-- title: Research Funds
+- title: Research Grants
   type: time_table
   contents:
     - title: プログラミング言語への意味的バージョンの導入による更新支援技術の研究

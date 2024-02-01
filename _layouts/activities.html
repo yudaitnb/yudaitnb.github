@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!-- _layouts/service.html -->
+<!-- _layouts/activities.html -->
 {% unless site.data.resume %}
 <div class="post">
 
@@ -12,7 +12,7 @@ layout: default
 
   <article>
     <div class="cv">
-      {% for entry in site.data.service %}
+      {% for entry in site.data.activities %}
         <a class="anchor" id="{{ entry.title }}"></a>
         <div class="card mt-3 p-3">
           <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
