@@ -1,0 +1,18 @@
+- title: At Tokyo Institute of Technology (as a TA)
+  type: time_table
+  contents:
+    - year: 2020
+      items: 
+        - 3Q (Oct~), Programming I <a href="https://prg1-2020.github.io/lecture/web/">[Class]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202002384&Nendo=2020&vid=03&lang=EN">[OCW]</a>
+        - 2Q (Jun~), Information Literacy 2 <a href="https://titechcomp.github.io/y20-il2j/">[3b]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110800&KougiCD=202007189&Nendo=2020&vid=03">[OCW]</a>
+        - 1Q (Apr~), Introduction to Computer Science <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=202002383&lang=JA&vid=03">[OCW]</a>
+    - year: 2019
+      items: 
+        - 3Q (Oct~), Programming I <a href="https://prg1-2019.github.io/lecture/web/">[Class]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201902384&lang=EN">[OCW]</a>
+        - 2Q (Jun~), Information Literacy 2 <a href="http://prg.is.titech.ac.jp/ja/people/masuhara/classes/2019-il2/">[1b,3b]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201907183&lang=EN&vid=03">[OCW(1b)]</a>
+        - 1Q (Apr~), Introduction to Computer Science <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=201902383&Nendo=2019&lang=EN">[OCW]</a>
+    - year: 2018
+      items: 
+        - 2Q (Jun~), Information Literacy 2 <a href="http://prg.is.titech.ac.jp/ja/people/masuhara/classes/2018-il2/">[1b]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201807183&lang=EN&vid=03">[OCW]</a>
+        - 1Q (Apr~), Information Literacy 1 <a href="http://prg.is.titech.ac.jp/ja/people/masuhara/classes/2018-il1/">[1b]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110800&KougiCD=201807165&Nendo=2018&lang=EN&vid=03">[OCW]</a>
+        - 1Q (Apr~), Introduction to Computer Science <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=201802383&Nendo=2018&lang=EN">[OCW]</a>

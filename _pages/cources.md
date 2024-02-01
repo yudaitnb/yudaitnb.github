@@ -1,11 +1,15 @@
 ---
-layout: page
-permalink: /teaching/
-title: teaching
-description: 
+layout: cources
+permalink: /cources/
+title: cources
 nav: true
 nav_order: 5
+description: 
+toc:
+  sidebar: left
 ---
+
+<!-- layout: page -->
 
 <!-- <h2>At Tokyo Institute of Technology (as a student)</h2>
 <table>
@@ -20,7 +24,7 @@ nav_order: 5
         <td>TA</td>
     </tr>
 </table> -->
-
+<!-- 
 <h2>At Tokyo Institute of Technology (as a TA)</h2>
 <table>
     <tr>
@@ -73,4 +77,4 @@ nav_order: 5
         <td>Introduction to Computer Science <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=201802383&Nendo=2018&lang=EN">[OCW]</a></td>
         <td>TA</td>
     </tr>
-</table>
+</table> -->

@@ -93,52 +93,6 @@
       institution: Tokyo Institute of Technology
       year: 2020 - 2022
 
-- title: Academic Service (Reviewing)
-  type: time_table
-  contents:
-    - year: 2024
-      items: 
-        - <a href="https://conf.researchr.org/track/aplas-2024/src-and-posters">APLAS SRC & Posters</a> (Selection Committee & Judge)
-        - <a href="https://pldi24.sigplan.org/track/pldi-2024-pldi-research-artifacts">PLDI Research Artifacts</a> (Artifact Evaluation Committee)
-        - <a href="https://www.iccq.ru/2024.html">ICCQ</a> (Program Committee)
-    - year: 2023
-      items: 
-        - <a href="https://conf.researchr.org/track/apsec-2023/apsec-2023-student-research-competition">APSEC SRC</a> (Program Committee)
-        - <a href="https://conf.researchr.org/track/aplas-2023/src-and-posters">APLAS SRC & Posters</a> (Judge)
-        - <a href="https://conf.researchr.org/track/icsme-2023/icsme-2023-industry-track">ICSME Industry Track</a> (Program Committee)
-        - <a href="https://conf.researchr.org/track/COP-2023/COP-2023">COP</a> (Program Committee Chair)
-        - <a href="https://www.iccq.ru/2023.html">ICCQ</a> (Program Committee)
-    - year: 2022
-      items: 
-        - <a href="https://2022.ecoop.org/home/COP-2022">COP</a> (Program Committee Chair)
-        - <a href="https://peerj.com/computer-science/">PeerJ Computer Science</a> (Reviewer)
-    - year: 2021
-      items: 
-        - <a href="https://icfp21.sigplan.org/home/scheme-2021">Scheme</a> (External Reviewer)
-    - year: 2020
-      items: 
-        - <a href="https://2020.splashcon.org/track/splash-2020-Onward-Essays">Onward! Essays</a> (Co-reviewer)
-
-- title: Academic Service (Organizing and Others)
-  type: time_table
-  contents:
-    - year: 2024
-      items: 
-        - <a href="https://conf.researchr.org/track/aplas-2024/src-and-posters">APLAS SRC & Posters</a> (Organizer)
-    - year: 2023
-      items: 
-        - <a href="https://conf.researchr.org/track/COP-2023/COP-2023">COP</a> (Organizing Committee)
-    - year: 2022
-      items: 
-        - <a href="https://2022.ecoop.org/home/COP-2022">COP</a> (Organizing Committee)
-        - <a href="https://popl22.sigplan.org/home/pepm-2022">PEPM History Project</a> (Organizing Committee)
-    - year: 2021
-      items: 
-        - <a href="https://jssst-ppl.org/workshop/2021/">JSSST PPL</a> (Panelist (Social Event))
-    - year: 2020
-      items: 
-        - <a href="https://2020.splashcon.org/">SPLASH</a> (Student Volunteer)
-
 # - title: Honors and Awards
 #   type: time_table
 #   contents:

@@ -14,6 +14,10 @@
   - firstname: ["Atsushi", "A."]
     url: https://www.fos.kuis.kyoto-u.ac.jp/~igarashi/index.html.en
 
+"Sekiyama":
+  - firstname: ["Taro", "T."]
+    url: https://www.fos.kuis.kyoto-u.ac.jp/~t-sekiym/
+
 "Bach": 
   - firstname: ["Johann Sebastian", "J. S."]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
