@@ -44,7 +44,7 @@ nav_order: 10
 | [DLS](https://conf.researchr.org/series/dls)                   | -                   | sigplan 12 pages (including refs?)<br>Colocated with SPLASH |
 | [PPDP](https://conf.researchr.org/series/ppdp)                 | September ~ October | sigplan 12 pages + refs |
 
-- [acmsmall (acmart, PCAMPL)](https://www.sigplan.org/Resources/Author/)
+- [acmsmall (acmart, PACMPL)](https://www.sigplan.org/Resources/Author/)
 - [sigplan (acmart)](https://www.sigplan.org/Resources/Author/)
 - [Springer LNCS](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 - [LIPIcs](https://submission.dagstuhl.de/documentation/authors)
