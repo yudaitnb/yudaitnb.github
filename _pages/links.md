@@ -31,7 +31,7 @@ nav_order: 10
 | [PLDI](https://conf.researchr.org/series/pldi)                 | June               | acmsmall 20 pages + refs |
 | [SPLASH/OOPSLA](https://conf.researchr.org/series/splash)      | October ~ December | acmsmall 23(+4) pages + refs<br>2 _separate_ rounds of reviewing |
 | [ICFP](https://conf.researchr.org/series/icfp)                 | August ~ September | acmsmall 25(+2) pages + refs |
-| [ECOOP](https://conf.researchr.org/series/ecoop)               | June ~ July        | No limits when submission, LIPIcs 25 pages + refs (camera-ready)<br>2 _separate_ rounds of reviewing |
+| [ECOOP](https://conf.researchr.org/series/ecoop)               | June ~ July        | No limits when submission<br>LIPIcs 25 pages + refs (camera-ready)<br>2 _separate_ rounds of reviewing |
 | [ESOP](https://etaps.org/)                                     | October ~ Novemer  | LNCS 25 pages + refs |
 
 | Conference                                                     | Date                | Comment        |
