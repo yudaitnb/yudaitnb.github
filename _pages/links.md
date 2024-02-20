@@ -27,19 +27,28 @@ nav_order: 10
 
 | Conference                                                     | Date               | Comment        |
 | :------------------------------------------------------------- | :----------------- | :------------- |
-| [POPL](https://conf.researchr.org/series/popl)                 | January            |  |
-| [PLDI](https://conf.researchr.org/series/pldi)                 | June               |  |
-| [SPLASH/OOPSLA](https://conf.researchr.org/series/splash)      | October ~ December | 2 _separate_ rounds of reviewing |
-| [ICFP](https://conf.researchr.org/series/icfp)                 | August ~ September |  |
-| [ECOOP](https://conf.researchr.org/series/ecoop)               | June ~ July        | 2 _separate_ rounds of reviewing |
-| [ESOP](https://etaps.org/)                                     | October ~ Novemer  | https://etaps.org/2023/conferences/ |
-| [FLOPS](https://conf.researchr.org/series/flops)               | October ~ December |  |
-| [APLAS](https://conf.researchr.org/series/aplas)               | October ~ December |  |
-| [PEPM](https://conf.researchr.org/series/pepm)                 | -                  | Colocated with POPL |
-| [‹Programming›](https://conf.researchr.org/series/programming)  | March ~ April      | 3 _separate_ rounds of reviewing |
-| [GPCE](https://conf.researchr.org/series/gpce)                 | -                  | Colocated with SPLASH |
-| [SLE](https://conf.researchr.org/series/sle)                   | -                  | Colocated with SPLASH |
-| [LICS](https://lics.siglog.org/)                               | June - July        |  |           
+| [POPL](https://conf.researchr.org/series/popl)                 | January            | acmsmall 25 pages + refs |
+| [PLDI](https://conf.researchr.org/series/pldi)                 | June               | acmsmall 20 pages + refs |
+| [SPLASH/OOPSLA](https://conf.researchr.org/series/splash)      | October ~ December | acmsmall 23(+4) pages + refs<br>2 _separate_ rounds of reviewing |
+| [ICFP](https://conf.researchr.org/series/icfp)                 | August ~ September | acmsmall 25(+2) pages + refs |
+| [ECOOP](https://conf.researchr.org/series/ecoop)               | June ~ July        | No limits when submission, LIPIcs 25 pages + refs (camera-ready)<br>2 _separate_ rounds of reviewing |
+| [ESOP](https://etaps.org/)                                     | October ~ Novemer  | LNCS 25 pages + refs |
+
+| Conference                                                     | Date                | Comment        |
+| :------------------------------------------------------------- | :-----------------  | :------------- |
+| [FLOPS](https://conf.researchr.org/series/flops)               | October ~ December  | LNCS 15 pages + refs |
+| [APLAS](https://conf.researchr.org/series/aplas)               | October ~ December  | LNCS 17(+1) pages + refs |
+| [‹Programming›](https://conf.researchr.org/series/programming)  | March ~ April       | ‹Programming› template 22 pages + refs<br>3 _separate_ rounds of reviewing |
+| [GPCE](https://conf.researchr.org/series/gpce)                 | -                   | sigplan 12 pages + refs<br>Colocated with SPLASH |
+| [SLE](https://conf.researchr.org/series/sle)                   | -                   | sigplan 12 pages (including refs?)<br>Colocated with SPLASH |
+| [DLS](https://conf.researchr.org/series/dls)                   | -                   | sigplan 12 pages (including refs?)<br>Colocated with SPLASH |
+| [PPDP](https://conf.researchr.org/series/ppdp)                 | September ~ October | sigplan 12 pages + refs |
+
+- [acmsmall (acmart, PCAMPL)](https://www.sigplan.org/Resources/Author/)
+- [sigplan (acmart)](https://www.sigplan.org/Resources/Author/)
+- [Springer LNCS](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
+- [LIPIcs](https://submission.dagstuhl.de/documentation/authors)
+- [‹Programming› template](https://programming-journal.org/submission/)
 
 <br>
 
@@ -56,13 +65,13 @@ nav_order: 10
 | [MoreVMs](https://conf.researchr.org/series/MOREVMs)   | Colocated with ‹Programming› |
 | [Array](https://conf.researchr.org/series/ARRAY)       | Colocated with PLDI |
 | [ICOOOLPS](https://conf.researchr.org/series/ICOOOLPS) | Colocated with ECOOP |
-| [DLS](https://conf.researchr.org/series/dls)           | Colocated with SPLASH |
 
 <br>
 ### Types and Functional Language
 
 | Conference                                         | Comment        |
 | :------------------------------------------------- | :------------- |
+| [PEPM](https://conf.researchr.org/series/pepm)     | Colocated with POPL |
 | [Scheme](https://conf.researchr.org/series/Scheme) | Colocated with ICFP |
 | [TFP](https://trendsfp.github.io/)                 |  |
 | [WITS](https://conf.researchr.org/series/wits)     | Colocated with POPL |
