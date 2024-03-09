@@ -27,22 +27,22 @@ nav_order: 10
 
 | Conference                                                     | Date                    | Archive                                                                | Submission     |
 | :------------------------------------------------------------- | :---------------------- | :--------------------------------------------------------------------- | :------------- |
-| [POPL](https://conf.researchr.org/series/popl)                 | January                 | [PACMPL archive](https://dl.acm.org/loi/pacmpl)                        | acmsmall 25 pages + refs |
-| [PLDI](https://conf.researchr.org/series/pldi)                 | June                    | [PACMPL archive](https://dl.acm.org/loi/pacmpl)                        | acmsmall 20 pages + refs |
-| [SPLASH/OOPSLA](https://conf.researchr.org/series/splash)      | October ~ <br>December  | [PACMPL archive](https://dl.acm.org/loi/pacmpl)                        | acmsmall 23(+4) pages + refs<br>2 _separate_ rounds of reviewing |
-| [ICFP](https://conf.researchr.org/series/icfp)                 | August ~ <br>September  | [PACMPL archive](https://dl.acm.org/loi/pacmpl)                        | acmsmall 25(+2) pages + refs |
-| [ECOOP](https://conf.researchr.org/series/ecoop)               | June ~ <br>July         | [Journal archive](https://drops.dagstuhl.de/entities/conference/ECOOP) | No limits when submission<br>LIPIcs 25 pages + refs (camera-ready)<br>2 _separate_ rounds of reviewing |
-| [ESOP](https://etaps.org/)                                     | October ~ <br>November  | [Conference proceedings](https://link.springer.com/conference/esop)    | LNCS 25 pages + refs |
+| [POPL](https://conf.researchr.org/series/popl)                 | January                 | [PACMPL archive](https://dl.acm.org/loi/pacmpl)                        | acmsmall 25 pgs. + refs |
+| [PLDI](https://conf.researchr.org/series/pldi)                 | June                    | [PACMPL archive](https://dl.acm.org/loi/pacmpl)                        | acmsmall 20 pgs. + refs |
+| [SPLASH/OOPSLA](https://conf.researchr.org/series/splash)      | October ~ <br>December  | [PACMPL archive](https://dl.acm.org/loi/pacmpl)                        | acmsmall 23(+4) pgs. + refs<br>2 _separate_ rounds of reviewing |
+| [ICFP](https://conf.researchr.org/series/icfp)                 | August ~ <br>September  | [PACMPL archive](https://dl.acm.org/loi/pacmpl)                        | acmsmall 25(+2) pgs. + refs |
+| [ECOOP](https://conf.researchr.org/series/ecoop)               | June ~ <br>July         | [Journal archive](https://drops.dagstuhl.de/entities/conference/ECOOP) | No limits when submission<br>LIPIcs 25 pgs. + refs (camera-ready)<br>2 _separate_ rounds of reviewing |
+| [ESOP](https://etaps.org/)                                     | October ~ <br>November  | [Conference proceedings](https://link.springer.com/conference/esop)    | LNCS 25 pgs. + refs |
 
 | Conference                                                     | Date                        | Archive                                                                    | Submission     |
 | :------------------------------------------------------------- | :-------------------------- | :------------------------------------------------------------------------- | :------------- |
-| [FLOPS](https://conf.researchr.org/series/flops)               | October ~ <br>December      | [Conference proceedings](https://link.springer.com/conference/flops)       | LNCS 15 pages + refs |
-| [APLAS](https://conf.researchr.org/series/aplas)               | October ~ <br>December      | [Conference proceedings](https://link.springer.com/conference/aplas)       | LNCS 17(+1) pages + refs |
-| [‹Programming›](https://conf.researchr.org/series/programming)  | March ~ <br>April           | [Journal archive](https://programming-journal.org/)                        | ‹Programming› template 22 pages + refs<br>3 _separate_ rounds of reviewing |
-| [GPCE](https://conf.researchr.org/series/gpce)                 | (Colocated with SPLASH)     | [Conference proceedings](https://dl.acm.org/conference/gpce/proceedings)   | sigplan 12 pages + refs |
-| [SLE](https://conf.researchr.org/series/sle)                   | (Colocated with SPLASH)     | [Conference proceedings](https://dl.acm.org/conference/splash/proceedings) | sigplan 12 pages (including refs?) |
-| [DLS](https://conf.researchr.org/series/dls)                   | (Colocated with SPLASH)     | [Conference proceedings](https://dl.acm.org/conference/splash/proceedings) | sigplan 12 pages (including refs?) |
-| [PPDP](https://conf.researchr.org/series/ppdp)                 | September ~ <br>October     | [Conference proceedings](https://dl.acm.org/conference/ppdp/proceedings)   | sigplan 12 pages + refs |
+| [FLOPS](https://conf.researchr.org/series/flops)               | October ~ <br>December      | [Conference proceedings](https://link.springer.com/conference/flops)       | LNCS 15 pgs. + refs |
+| [APLAS](https://conf.researchr.org/series/aplas)               | October ~ <br>December      | [Conference proceedings](https://link.springer.com/conference/aplas)       | LNCS 17(+1) pgs. + refs |
+| [‹Programming›](https://conf.researchr.org/series/programming)  | March ~ <br>April           | [Journal archive](https://programming-journal.org/)                        | ‹Programming› template 22 pgs. + refs<br>3 _separate_ rounds of reviewing |
+| [GPCE](https://conf.researchr.org/series/gpce)                 | (Colocated with SPLASH)     | [Conference proceedings](https://dl.acm.org/conference/gpce/proceedings)   | sigplan 12 pgs. + refs |
+| [SLE](https://conf.researchr.org/series/sle)                   | (Colocated with SPLASH)     | [Conference proceedings](https://dl.acm.org/conference/splash/proceedings) | sigplan 12 pgs. (including refs?) |
+| [DLS](https://conf.researchr.org/series/dls)                   | (Colocated with SPLASH)     | [Conference proceedings](https://dl.acm.org/conference/splash/proceedings) | sigplan 12 pgs. (including refs?) |
+| [PPDP](https://conf.researchr.org/series/ppdp)                 | September ~ <br>October     | [Conference proceedings](https://dl.acm.org/conference/ppdp/proceedings)   | sigplan 12 pgs. + refs |
 
 ### Templates
 - [acmsmall (acmart, PACMPL)](https://www.sigplan.org/Resources/Author/)
