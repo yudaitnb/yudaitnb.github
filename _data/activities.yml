@@ -28,6 +28,9 @@
 - title: As an Organizing Committee
   type: time_table
   contents:
+    - year: 2025
+      items: 
+        - <a href="https://jssst-ppl.org/workshop/2025/">JSSST PPL</a> (Treasurer / Conference Manager)
     - year: 2024
       items: 
         - <a href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F">APLAS SRC & Posters</a> (Organizer)
