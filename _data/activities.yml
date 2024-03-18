@@ -56,6 +56,10 @@
       items: 
         - <a href="https://2022.ecoop.org/home/COP-2022">COP</a> (Organizing Committee)
         - <a href="https://popl22.sigplan.org/home/pepm-2022">PEPM History Project</a> (Organizing Committee)
+
+- title: Other Conference Support
+  type: time_table
+  contents:
     - year: 2021
       items: 
         - <a href="https://jssst-ppl.org/workshop/2021/">JSSST PPL</a> (Panelist (Social Event))
