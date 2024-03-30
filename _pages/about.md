@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Room E1006, Building No</p>
     <p>Tokyo Institute of Technology</p>
-    <p>Ookayama 2-12-1 (postal number will be available), Meguro-ku,</p>
+    <p>Ookayama 2-12-1 (post number will be available), Meguro-ku,</p>
     <p>Tokyo 152-8552 Japan</p>
 
 news: false  # includes a list of news items

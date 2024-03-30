@@ -35,10 +35,12 @@
   contents:
     - year: 2025
       items: 
-        - <a href="https://2025.programming-conference.org/">‹Programming›</a> (Artifact Evaluation Committee)
+        - <a href="https://2025.programming-conference.org/track/programming-2025-artifacts">‹Programming›</a> (Artifact Evaluation Committee)
     - year: 2024
       items: 
         - <a href="https://pldi24.sigplan.org/track/pldi-2024-pldi-research-artifacts">PLDI Research Artifacts</a> (Artifact Evaluation Committee)
+        # - <a href="https://icfp24.sigplan.org/track/icfp-2024-artifact-evaluation">ICFP Artifact Evaluation</a> (Artifact Evaluation Committee)
+        # - <a href="https://2024.ecoop.org/track/ecoop-2024-artifact-evaluation">ECOOP Artifact Evaluation</a> (Artifact Evaluation Committee)
 
 - title: Organizing Committee
   type: time_table
