@@ -20,7 +20,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 I am an Assistant Professor of [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english).
-I received my B.S., M.S., and D.S. degrees from [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english) in 2018, 2020, and 2023 respectively. Formerly, I was a JSPS Research Fellow at [Tokyo Institute of Technology](https://www.titech.ac.jp/english) (2022-2023), and a program-specific researcher (postdoc) of [Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en), Department of Communications and Computer Engineering, Graduate School of Informatics, Kyoto University (2023-2024).
+
+I received my B.S., M.S., and D.S. degrees from [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english) in 2018, 2020, and 2023 respectively.
+
+Formerly, I was a JSPS Research Fellow at [Tokyo Institute of Technology](https://www.titech.ac.jp/english) (2022-2023), and a program-specific researcher (postdoc) of [Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en), Department of Communications and Computer Engineering, Graduate School of Informatics, Kyoto University (2023-2024).
 I am also a member of [Association for Computing Machinery](https://www.acm.org/).
 
 ### Research Interest
