@@ -1,4 +1,12 @@
-- title: At Tokyo Institute of Technology (as a TA)
+- title: At Tokyo Institute of Technology, as an Educator
+  type: time_table
+  contents:
+    - year: 2024
+      items: 
+        - 1Q (Apr~), Programming II <a href="">[Class]</a> <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202402398&Nendo=2024&vid=03&lang=EN">[OCW]</a>
+
+
+- title: At Tokyo Institute of Technology, as a TA
   type: time_table
   contents:
     - year: 2020
