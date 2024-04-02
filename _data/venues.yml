@@ -1,3 +1,27 @@
+"POPL":
+  url: https://dl.acm.org/loi/pacmpl
+  color: "#ff4b00"
+
+"PLDI":
+  url: https://dl.acm.org/loi/pacmpl
+  color: "#ff4b00"
+
+"ICFP":
+  url: https://dl.acm.org/loi/pacmpl
+  color: "#ff4b00"
+
+"OOPSLA":
+  url: https://dl.acm.org/loi/pacmpl
+  color: "#ff4b00"
+
+"ECOOP":
+  url: https://drops.dagstuhl.de/entities/conference/ECOOP
+  color: "#ff4b00"
+
+"‹Programming›":
+  url: https://programming-journal.org/
+  color: "#ff4b00"
+
 "APLAS":
   url: https://conf.researchr.org/series/APLAS
   color: "#005aff"
@@ -6,13 +30,10 @@
   url: https://conf.researchr.org/series/SLE
   color: "#005aff"
 
-"‹Programming›":
-  url: https://programming-journal.org/
-  color: "#ff4b00"
-
 "COP":
   url: https://conf.researchr.org/series/COP
   color: "#990099"
 
 "Book":
   color: "#804000"
+
