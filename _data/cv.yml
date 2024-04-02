@@ -27,9 +27,15 @@
 - title: Job Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: <a href="https://educ.titech.ac.jp/is/eng/">Department of Mathematical and Computing Science</a>, <a href="https://www.titech.ac.jp/english/about/organization/schools/organization04">School of Computing</a>, <a href="https://www.titech.ac.jp/english">Tokyo Institute of Technology
+      year: 2024 - 2029
+      description:
+        - Organizing <a href="https://prg.is.titech.ac.jp/">PRG-group</a> together with <a href="https://prg.is.titech.ac.jp/people/masuhara/">Hidehiko Masuhara</a> and <a href="https://sites.google.com/site/youyoucong212/">Youyou Cong</a>
+
     - title: Program-specific Researcher (Grant-in-Aid for Scientific Research (A))
       institution: <a href="https://www.fos.kuis.kyoto-u.ac.jp/">Computer Software Group</a>, Kyoto University
-      year: 2023 - 2025
+      year: 2023 - 2024
       description:
         - <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00582/">Research on software contracts for highly interoperable software modules</a>
 
