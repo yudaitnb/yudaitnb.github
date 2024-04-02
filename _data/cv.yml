@@ -73,16 +73,25 @@
 - title: Research Grants
   type: time_table
   contents:
+      title: 高相互運用性を持つソフトウェアモジュールのためのソフトウェア契約の研究
+      institution: <a href="https://www.jsps.go.jp/english/">Japan Society For the Promotion of Science (JSPS)</a>
+      year: 2020 - 2025
+      description:
+        - Co-Investigator
+        - <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H00582/">KAKENHI 20H00582</a>
+
     - title: プログラミング言語への意味的バージョンの導入による更新支援技術の研究
       institution: <a href="https://www.jsps.go.jp/english/">Japan Society For the Promotion of Science (JSPS)</a>
       year: 2023 - 2025
       description:
+        - Principal Investigator
         - <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K19961/">KAKENHI 23K19961</a>
 
     - title: バージョンを言語要素に持つプログラミング言語の開発
       institution: <a href="https://www.jsps.go.jp/english/">Japan Society For the Promotion of Science (JSPS)</a>
       year: 2022 - 2024
       description:
+        - Principal Investigator
         - <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22KJ1313/">KAKENHI 22KJ1313 / 22J14382</a>
         - Withdrawn in 2023 due to my transfer to Kyoto University.
 
