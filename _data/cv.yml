@@ -73,7 +73,7 @@
 - title: Research Grants
   type: time_table
   contents:
-      title: 高相互運用性を持つソフトウェアモジュールのためのソフトウェア契約の研究
+    - title: 高相互運用性を持つソフトウェアモジュールのためのソフトウェア契約の研究
       institution: <a href="https://www.jsps.go.jp/english/">Japan Society For the Promotion of Science (JSPS)</a>
       year: 2020 - 2025
       description:
