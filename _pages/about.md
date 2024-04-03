@@ -9,9 +9,9 @@ profile:
   image: profile_img.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room E1006, Building W8-E</p>
+    <p>Room E1005, Building W8-E</p>
     <p>Tokyo Institute of Technology</p>
-    <p>Ookayama 2-12-1 (post number will be available), Meguro-ku,</p>
+    <p>Ookayama 2-12-1 W8-35, Meguro-ku,</p>
     <p>Tokyo 152-8552 Japan</p>
 
 news: false  # includes a list of news items
