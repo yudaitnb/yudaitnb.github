@@ -1,11 +1,17 @@
 - title: Program Committee
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - <a href="https://2025.programming-conference.org/track/programming-2025-artifacts">‹Programming›</a> (Artifact Evaluation Committee)
     - year: 2024
       items: 
-        - <a href="https://conf.researchr.org/home/tyde-2024">TyDe</a> (Program Committee)
-        - <a href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F">APLAS SRC & Posters</a> (Selection Committee & Judge)
         - <a href="https://www.iccq.ru/2024.html">ICCQ</a> (Program Committee)
+        - <a href="https://pldi24.sigplan.org/track/pldi-2024-pldi-research-artifacts">PLDI Research Artifacts</a> (Artifact Evaluation Committee)
+        - <a href="https://2024.ecoop.org/track/ecoop-2024-artifact-evaluation">ECOOP Artifact Evaluation</a> (Artifact Evaluation Committee)
+        # - <a href="https://icfp24.sigplan.org/track/icfp-2024-artifact-evaluation">ICFP Artifact Evaluation</a> (Artifact Evaluation Committee)
+        - <a href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F">APLAS SRC & Posters</a> (Selection Committee & Judge)
+        - <a href="https://conf.researchr.org/home/tyde-2024">TyDe</a> (Program Committee)
     - year: 2023
       items: 
         - <a href="https://conf.researchr.org/track/apsec-2023/apsec-2023-student-research-competition">APSEC SRC</a> (Program Committee)
@@ -20,6 +26,9 @@
 - title: External Reviewer
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - <a href="https://2024.ecoop.org/track/ecoop-2024-papers">ECOOP</a> (Extended Review Committee)
     - year: 2022
       items: 
         - <a href="https://peerj.com/computer-science/">PeerJ Computer Science</a> (Reviewer)
@@ -30,17 +39,17 @@
       items: 
         - <a href="https://2020.splashcon.org/track/splash-2020-Onward-Essays">Onward! Essays</a> (Co-reviewer)
 
-- title: Artifact Evaluation Committee
-  type: time_table
-  contents:
-    - year: 2025
-      items: 
-        - <a href="https://2025.programming-conference.org/track/programming-2025-artifacts">‹Programming›</a> (Artifact Evaluation Committee)
-    - year: 2024
-      items: 
-        - <a href="https://pldi24.sigplan.org/track/pldi-2024-pldi-research-artifacts">PLDI Research Artifacts</a> (Artifact Evaluation Committee)
-        # - <a href="https://icfp24.sigplan.org/track/icfp-2024-artifact-evaluation">ICFP Artifact Evaluation</a> (Artifact Evaluation Committee)
-        # - <a href="https://2024.ecoop.org/track/ecoop-2024-artifact-evaluation">ECOOP Artifact Evaluation</a> (Artifact Evaluation Committee)
+# - title: Artifact Evaluation Committee
+#   type: time_table
+#   contents:
+#     - year: 2025
+#       items: 
+#         - <a href="https://2025.programming-conference.org/track/programming-2025-artifacts">‹Programming›</a> (Artifact Evaluation Committee)
+#     - year: 2024
+#       items: 
+#         - <a href="https://pldi24.sigplan.org/track/pldi-2024-pldi-research-artifacts">PLDI Research Artifacts</a> (Artifact Evaluation Committee)
+#         # - <a href="https://icfp24.sigplan.org/track/icfp-2024-artifact-evaluation">ICFP Artifact Evaluation</a> (Artifact Evaluation Committee)
+#         - <a href="https://2024.ecoop.org/track/ecoop-2024-artifact-evaluation">ECOOP Artifact Evaluation</a> (Artifact Evaluation Committee)
 
 - title: Organizing Committee
   type: time_table
