@@ -9,9 +9,9 @@ nav_order: 10
 
 ## Labs
 - [Programming Group (PRG Group)](http://prg.is.titech.ac.jp/)
-  - Programming Research Group, Department of Mathematical and Computing Science, Tokyo Institute of Technology
+  - Department of Mathematical and Computing Science, Tokyo Institute of Technology
 - [Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en)
-  - Computer Software Group, Department of Communications and Computer Engineering, Graduate School of Informatics, Kyoto University
+  - Department of Communications and Computer Engineering, Graduate School of Informatics, Kyoto University
 
 
 ## Tools
