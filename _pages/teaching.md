@@ -3,7 +3,7 @@ layout: teaching
 permalink: /teaching/
 title: teaching
 nav: true
-nav_order: 5
+nav_order: 6
 description: 
 toc:
   sidebar: left

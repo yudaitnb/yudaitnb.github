@@ -8,8 +8,8 @@ profile:
   align: right
   image: profile_img.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Taken by my friend in Asakusa (浅草)</p>
+  more_info:
+    Taken by my friend in <a href="https://maps.app.goo.gl/NJaTsZwx9jkdD4Uo6">Asakusa</a>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -33,11 +33,11 @@ I am also a member of [Association for Computing Machinery](https://www.acm.org/
 <span style="width: 120px; display: inline-block">Postal Address:</span>Department of Mathematical and Computing Science, Tokyo Institute of Technology<br>
 <span style="width: 120px; display: inline-block">               </span>Ookayama 2-12-1 W8-35, Meguro-ku, Tokyo 152-8552 Japan<br>
 <span style="width: 120px; display: inline-block">E-mail:</span><a href="mailto:yudaitnb@prg.is.titech.ac.jp">yudaitnb [at] prg.is.titech.ac.jp</a><br>
-<span style="width: 120px; display: inline-block">Office:</span>E1005, W8-E<br>
+<span style="width: 120px; display: inline-block">Office:</span>E1005, West Bldg. 8E (<a href="https://www.titech.ac.jp/english/0/maps/ookayama/ookayama">"21" in the campus map</a>)<br>
 
 <hr>
 
-## reserach interests
+## research interests
 My research interests are in <b><i>programming language design</i></b> and <b><i>programming language theory</i></b>.
 I am currently working on the following research projects:
 1. <i>Programming Language with Versions</i>. &nbsp; [👉APLAS'23](https://link.springer.com/chapter/10.1007/978-981-99-8311-7_1), [👉SLE'22](https://dl.acm.org/doi/10.1145/3567512.3567531), [👉‹Programming›'22](https://programming-journal.org/2022/6/5/)
