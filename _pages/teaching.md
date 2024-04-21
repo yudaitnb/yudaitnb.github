@@ -1,5 +1,5 @@
 ---
-layout: cources
+layout: teaching
 permalink: /teaching/
 title: teaching
 nav: true
