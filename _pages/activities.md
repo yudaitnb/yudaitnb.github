@@ -8,4 +8,3 @@ description:
 toc:
   sidebar: left
 ---
-This page lists my professional activities in the academic community.
