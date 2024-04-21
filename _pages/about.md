@@ -29,7 +29,8 @@ I am also a member of [Association for Computing Machinery](https://www.acm.org/
 
 ## coordinates
 
-<span style="width: 120px; display: inline-block">Postal Address:</span>Ookayama 2-12-1 W8-35, Meguro-ku, Tokyo, 152-8552 Japan<br>
+<span style="width: 120px; display: inline-block">Postal Address:</span>Department of Mathematical and Computing Science, Tokyo Institute of Technology<br>
+<span style="width: 120px; display: inline-block">               </span>Ookayama 2-12-1 W8-35, Meguro-ku, Tokyo 152-8552 Japan<br>
 <span style="width: 120px; display: inline-block">E-mail:</span><a href="mailto:yudaitnb@prg.is.titech.ac.jp">yudaitnb [at] prg.is.titech.ac.jp</a><br>
 <span style="width: 120px; display: inline-block">Office:</span>E1005, W8-E<br>
 
