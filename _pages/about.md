@@ -24,11 +24,25 @@ Formerly, I was a JSPS Research Fellow at [Tokyo Institute of Technology](https:
 I am also a member of [Association for Computing Machinery](https://www.acm.org/).
 
 ### coordinates
-<table>
-  <tr><td>Postal Address:</td><td>Ookayama 2-12-1 W8-35, Meguro-ku, Tokyo 152-8552 Japan</td></tr>
-  <tr><td>Email:</td><td>yudaitnb [at] prg.is.titech.ac.jp</td></tr>
-  <tr><td>Office:</td><td>E1005</td></tr>
-</table>
+<div class="table-responsive">
+  <table>
+    <colgroup><col width="120"></colgroup>
+    <tbody>
+      <tr style="vertical-align:top">
+        <td> Postal Address:<br><br></td>
+        <td> Ookayama 2-12-1 W8-35, Meguro-ku, Tokyo 152-8552 Japan </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>Email:</td>
+        <td><a href="mailto:yudaitnb@prg.is.titech.ac.jp">yudaitnb [at] prg.is.titech.ac.jp</a></td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>Office:<br> </td>
+        <td>W8-E, E1005</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ### research interests
 <!-- My research interest is <b>programming languages</b> and <b>type systems</b>.
