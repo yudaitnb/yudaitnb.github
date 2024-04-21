@@ -1,7 +1,7 @@
 ---
 layout: cources
-permalink: /cources/
-title: cources
+permalink: /teaching/
+title: teaching
 nav: true
 nav_order: 5
 description: 
