@@ -8,26 +8,29 @@ profile:
   align: right
   image: profile_img.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Room E1005, Building W8-E</p>
-    <p>Tokyo Institute of Technology</p>
-    <p>Ookayama 2-12-1 W8-35, Meguro-ku,</p>
-    <p>Tokyo 152-8552 Japan</p>
+  more_info:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am an Assistant Professor of [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english).
-
+I am an Assistant Professor of [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english), where I run the [PRG-group](http://prg.is.titech.ac.jp/) with [Hidehiko Masuhara](https://prg.is.titech.ac.jp/people/masuhara/) and [Youyou Cong](https://sites.google.com/site/youyoucong212/).
+ 
 I received my B.S., M.S., and D.S. degrees from [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english) in 2018, 2020, and 2023 respectively.
 
 Formerly, I was a JSPS Research Fellow at [Tokyo Institute of Technology](https://www.titech.ac.jp/english) (2022-2023), and a program-specific researcher (postdoc) of [Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en), Department of Communications and Computer Engineering, Graduate School of Informatics, Kyoto University (2023-2024).
 
 I am also a member of [Association for Computing Machinery](https://www.acm.org/).
 
-### Research Interest
+### coordinates
+<table>
+  <tr><td>Postal Address:</td><td>Ookayama 2-12-1 W8-35, Meguro-ku, Tokyo 152-8552 Japan</td></tr>
+  <tr><td>Email:</td><td>yudaitnb [at] prg.is.titech.ac.jp</td></tr>
+  <tr><td>Office:</td><td>E1005</td></tr>
+</table>
+
+### research interests
 <!-- My research interest is <b>programming languages</b> and <b>type systems</b>.
 I'm currently working on the following research projects.
 - Developing a new language mechanism for compatibility & dependency analysis at an expression-level.
@@ -38,7 +41,7 @@ I'm currently working on the following research projects.
 My research interests are in <b>programming language design</b> and <b>programming language theory</b>.
 I am currently working on the following research projects:
 1. <i>Programming Language with Versions</i>: Research on a new language mechanism that incorporates versions into language semantics, which enables compatibility analysis and update support at the expression level, and on ensuring its safety.
-2. <i>Space-efficient Polymorphic Gradual Typing</i>: Research on introducing polymorphism in a gradual type system in a space-efficient manner.
+2. <i>Space-efficient Gradual Typing</i>: Research on implementing gradual type systems in a space-efficient manner.
 3. <i>Safe Language Interoperability</i>: Research on a new verification method for programs developed in multiple languages.
 
 <!-- 
