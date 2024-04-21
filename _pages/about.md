@@ -17,14 +17,15 @@ social: true  # includes social icons at the bottom of the page
 ---
 Assistant Professor
 
-I am an Assistant Professor in [Tokyo Institute of Technology](https://www.titech.ac.jp/english), where I co-lead the [PRG-group](http://prg.is.titech.ac.jp/) alongside [Hidehiko Masuhara](https://prg.is.titech.ac.jp/people/masuhara/) and [Youyou Cong](https://sites.google.com/site/youyoucong212/).
- 
+I am an Assistant Professor in [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english), where I co-lead the [PRG-group](http://prg.is.titech.ac.jp/) alongside [Hidehiko Masuhara](https://prg.is.titech.ac.jp/people/masuhara/) and [Youyou Cong](https://sites.google.com/site/youyoucong212/).
+
 I received my B.S., M.S., and D.S. degrees from [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english) in 2018, 2020, and 2023 respectively.
 
 Formerly, I was a Japan Society for the Promotion of Science (JSPS) Research Fellow at [Tokyo Institute of Technology](https://www.titech.ac.jp/english) (2022-2023), and a program-specific researcher (postdocoral position) in [Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en), Department of Communications and Computer Engineering, Graduate School of Informatics, Kyoto University (2023-2024).
 
 I am also a member of [Association for Computing Machinery](https://www.acm.org/).
 
+<hr>
 
 ## coordinates
 
@@ -32,6 +33,7 @@ I am also a member of [Association for Computing Machinery](https://www.acm.org/
 <span style="width: 120px; display: inline-block">E-mail:</span><a href="mailto:yudaitnb@prg.is.titech.ac.jp">yudaitnb [at] prg.is.titech.ac.jp</a><br>
 <span style="width: 120px; display: inline-block">Office:</span>E1005, W8-E<br>
 
+<hr>
 
 ## reserach interests
 My research interests are in <b><i>programming language design</i></b> and <b><i>programming language theory</i></b>.
