@@ -27,13 +27,6 @@ Formerly, I was a JSPS Research Fellow at [Tokyo Institute of Technology](https:
 
 I am also a member of [Association for Computing Machinery](https://www.acm.org/).
 
----
-# coordinates
-
-
-
----
-
 ### Research Interest
 <!-- My research interest is <b>programming languages</b> and <b>type systems</b>.
 I'm currently working on the following research projects.
