@@ -189,7 +189,20 @@
         {% assign proceedings = "inproceedings,incollection" | split: ','%}
         {% assign thesis = "thesis,mastersthesis,phdthesis" | split: ','%}
         {% if entry.type == "article" -%}
-          {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
+          {%- capture entrytype -%}
+            <em>
+              {{entry.journal}}
+              {%- if entry.volume %}
+                , Vol. {{entry.volume}}
+              {%- endif %}
+              {%- if entry.volume %}
+                 ({{entry.number}})
+              {%- endif %}
+              {%- if entry.pages %}
+                , Pages {{entry.pages}}
+              {%- endif %}
+            </em>
+          {%- endcapture -%}
         {%- elsif proceedings contains entry.type -%}
           {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
         {%- elsif thesis contains entry.type -%}
@@ -214,7 +227,10 @@
 
           <!-- Links/Buttons -->
           <div class="links">
-          {%- if entry.url %}
+          <!-- {%- if entry.url %}
+            <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
+          {%- endif %} -->
+          {%- if entry.doi %}
             <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button"><!--{{ entry.pubby }}-->DOI</a>
           {%- endif %}
           {%- if entry.arxiv %}
@@ -261,6 +277,13 @@
             <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
             {%- else -%}
             <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
+            {%- endif %}
+          {%- endif %}
+          {%- if entry.slides2 %}
+            {% if entry.slides2 contains '://' -%}
+            <a href="{{ entry.slides2 }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
+            {%- else -%}
+            <a href="{{ entry.slides2 | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
             {%- endif %}
           {%- endif %}
           {%- if entry.website %}
