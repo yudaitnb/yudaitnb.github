@@ -30,8 +30,10 @@ layout: default
               cache_bust=true -%}
             {% endif -%}
             {%- if page.profile.more_info %}
-            <div class="more-info">
+            <div class="more-info" style="text-align: center;">
+              <span style="font-size:0.8em">
               {{ page.profile.more_info }}
+              </span>
             </div>
             {%- endif %}
           </div>

@@ -9,7 +9,7 @@ profile:
   image: profile_img.jpg
   image_circular: false # crops the image to make it circular
   more_info:
-    Taken by my friend in <a href="https://maps.app.goo.gl/NJaTsZwx9jkdD4Uo6">Asakusa</a>
+    Taken by my friend in front of <a href="https://maps.app.goo.gl/NJaTsZwx9jkdD4Uo6">the Kaminarimon gate (雷門) in Asakusa</a>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

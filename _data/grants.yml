@@ -1,4 +1,4 @@
-- title: Led as a Principal Investigator
+- title: Leading as a Principal Investigator
   type: time_table
   contents:
     - title: <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K19961/">Research on Updating Support Techniques by Introducing Semantic Versioning into Programming Languages</a><br><span style="font-size:0.8em">プログラミング言語への意味的バージョンの導入による更新支援技術の研究</span>
@@ -14,7 +14,7 @@
         - Grunt Number <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22KJ1313/">22KJ1313 / 22J14382</a>
         - ※ Withdrawn in 2023 due to my transfer to Kyoto University.
 
-- title: Contributed as a Co-investigator
+- title: Contributing as a Co-investigator
   type: time_table
   contents:
     - title: <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23H03368/">High-Performance and Highly-Productive Language Infrastructures Based on Language Implementation Frameworks</a><br><span style="font-size:0.8em">言語処理系フレームワークによる性能と開発効率を両立させる言語基盤の創出</span>

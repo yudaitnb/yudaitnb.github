@@ -13,9 +13,9 @@
       institution: Department of Mathematical and Computing Science, School of Computing, Tokyo Institue of Technology.
       year: 2023
       description:
-        - title: A Programming Language with Versions
+        - title: Dissertation “A Programming Language with Versions”.
           contents:
-            - <a href="https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100886483">T2R2</a>
+            - <a href="https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100886483">Official archive</a>
             - <a href="https://www.cambridge.org/core/journals/journal-of-functional-programming/article/phd-abstracts/A32EE036508B4F3B309230D342DA7C2C">Phd Abstract, Journal of Functional Programming</a>
     - title: Master of Science
       institution: Department of Mathematical and Computing Science, School of Computing, Tokyo Institue of Technology.
@@ -33,13 +33,13 @@
       description:
         - Running <a href="https://prg.is.titech.ac.jp/">PRG-group</a> with <a href="https://prg.is.titech.ac.jp/people/masuhara/">Hidehiko Masuhara</a> and <a href="https://sites.google.com/site/youyoucong212/">Youyou Cong</a>
 
-    - title: Program-specific Researcher (Grant-in-Aid for Scientific Research (A))
+    - title: Program-specific Researcher
       institution: <a href="https://www.fos.kuis.kyoto-u.ac.jp/">Computer Software Group</a>, Kyoto University
       year: 2023 - 2024
       description:
-        - <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00582/">Research on software contracts for highly interoperable software modules</a>
+        - <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00582/">KAKENHI 20H00582</a>
 
-    - title: JSPS Research Fellow (DC2)
+    - title: JSPS Research Fellow
       institution: <a href="https://www.jsps.go.jp/english/e-pd/index.html">Japan Society for the Promotion of Science</a>
       year: 2022 - 2023
       description:
@@ -49,7 +49,7 @@
       institution: <a href="http://www.research.ibm.com/labs/tokyo/">IBM Research Tokyo</a>
       year: 2021 - 2021
       description:
-        - Research & Development on a Java Compiler
+        - Research & development on a Java compiler
 
     - title: Research Assistant
       institution: <a href="https://prg.is.titech.ac.jp/">Programming Group</a>, Tokyo Institute of Technology
@@ -62,13 +62,13 @@
       institution: <a href="http://www.research.ibm.com/labs/tokyo/">IBM Research Tokyo</a>
       year: 2018 - 2018
       description:
-        - Research & Development on a Java Compiler
+        - Research & development on a Java compiler
 
     - title: Editorial / Technical Assistant
       institution: MYU Research
       year: 2014 - 2022
       description:
-        - Scientific Publication and Editing
+        - Publication, editing, and translation for scientific journals in applied phisics, medicine, and philosophy
 
 - title: Scholarship
   type: time_table
