@@ -26,3 +26,10 @@
         - 2Q (Jun~), Information Literacy 2 <a href="http://prg.is.titech.ac.jp/ja/people/masuhara/classes/2018-il2/">[1b]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201807183&lang=EN&vid=03">[OCW]</a>
         - 1Q (Apr~), Information Literacy 1 <a href="http://prg.is.titech.ac.jp/ja/people/masuhara/classes/2018-il1/">[1b]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110800&KougiCD=201807165&Nendo=2018&lang=EN&vid=03">[OCW]</a>
         - 1Q (Apr~), Introduction to Computer Science <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=201802383&Nendo=2018&lang=EN">[OCW]</a>
+
+- title: Metorship
+  type: time_table
+  contents:
+    - year: 2024
+      items: 
+        - Satsuki Kasuya, Bachelor Thesis [“Design and Compatibility-Checking Mechanism of a Dynamically-Typed Language That Supports Multiple Versions”](https://prg.is.titech.ac.jp/news/bachelor-defense-2024-02/).
