@@ -16,6 +16,8 @@ toc:
   - three graduate students, and
   - two undergraduate students.
 
+If you find that our research areas align with your interests, please see ["How to Join the Group"](https://prg.is.titech.ac.jp/people/how-to-join/).
+
 ## Former Students
 <!-- ### Graduated PhD Students -->
 
