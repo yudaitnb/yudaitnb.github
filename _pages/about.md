@@ -20,9 +20,9 @@ Assistant Professor
 
 I am an Assistant Professor in [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english), where I co-lead the [PRG-group](http://prg.is.titech.ac.jp/) alongside [Hidehiko Masuhara](https://prg.is.titech.ac.jp/people/masuhara/) and [Youyou Cong](https://sites.google.com/site/youyoucong212/).
 
-I received my B.S., M.S., and D.S. degrees from [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english) in 2018, 2020, and 2023 respectively.
+I received B.S. degree from Department of Information Science, School of Science, [Tokyo Institute of Technology](https://www.titech.ac.jp/english) in 2018, and M.S. and D.S. degrees from [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english) 2020 and 2023 respectively.
 
-Formerly, I was a Japan Society for the Promotion of Science (JSPS) Research Fellow at Tokyo Institute of Technology (2022-2023), and a program-specific researcher (postdoctoral position) at Kyoto University (2023-2024).
+Formerly, I was a JSPS Research Fellow at Tokyo Institute of Technology (2022-2023), and a program-specific researcher (postdoctoral position) at Kyoto University (2023-2024).
 
 I am also a member of [Association for Computing Machinery](https://www.acm.org/).
 
