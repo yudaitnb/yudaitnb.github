@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Assistant Professor
 
-I am an Assistant Professor in [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english), where I co-lead the [PRG-group](http://prg.is.titech.ac.jp/) alongside [Hidehiko Masuhara](https://prg.is.titech.ac.jp/people/masuhara/) and [Youyou Cong](https://sites.google.com/site/youyoucong212/).
+I am an Assistant Professor in [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english).
 
 I received B.S. degree from Department of Information Science, School of Science, [Tokyo Institute of Technology](https://www.titech.ac.jp/english) in 2018, and M.S. and D.S. degrees from [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english) 2020 and 2023 respectively.
 
