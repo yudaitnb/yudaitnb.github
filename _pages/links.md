@@ -93,6 +93,7 @@ nav_order: 10
 | :--------------------------------------------- | :------------- |
 | [LIVE](https://conf.researchr.org/series/live) | Colocated with SPLASH |
 | [PX](https://conf.researchr.org/series/px)     | Colocated with ‹Programming› |
+| [SIGCHI](https://programs.sigchi.org/)         | Hosts CHI, IUI, UIST |
 
 <br>
 ### Programming Education
