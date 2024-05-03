@@ -9,15 +9,16 @@ toc:
   # sidebar: left
 ---
 
+I co-lead [the PRG-group](http://prg.is.titech.ac.jp/) alongside [Hidehiko Masuhara](https://prg.is.titech.ac.jp/people/masuhara/) and [Youyou Cong](https://sites.google.com/site/youyoucong212/).
+For more information about our ongoing projects, please visit our ["Projects"](https://prg.is.titech.ac.jp/projects/) page.
+If you find that our research areas align with your interests, please refer to ["How to Join the Group"](https://prg.is.titech.ac.jp/people/how-to-join/) for further details.
+
 ## Current Students
 
 - I am currently mentoring the thesis projects of
   - one all but dissertation doctoral student,
-  - three graduate students, and
+  - three graduate students, and 
   - two undergraduate students.
-
-I co-lead the [PRG-group](http://prg.is.titech.ac.jp/) alongside [Hidehiko Masuhara](https://prg.is.titech.ac.jp/people/masuhara/) and [Youyou Cong](https://sites.google.com/site/youyoucong212/).
-If you find that our research areas align with your interests, please see ["How to Join the Group"](https://prg.is.titech.ac.jp/people/how-to-join/).
 
 ## Former Students
 <!-- ### Graduated PhD Students -->

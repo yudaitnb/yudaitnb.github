@@ -44,7 +44,7 @@ I am currently engaged in the following research projects:
 2. <i>Space-efficient Gradual Typing</i>. &nbsp; 👉PLDI'24 (Accepted, details coming soon!)
 3. <i>Safe Language Interoperability</i>. &nbsp; WIP.
 
-I am also working with students on projects related to type systems, GPGPU, and live programming.
+I am also working with students on projects related to language design, type systems, GPGPU, and live programming.
 For more information, please visit our ["Projects"](https://prg.is.titech.ac.jp/projects/) page.
 
 <!-- 
