@@ -110,7 +110,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:  368748518 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-145691GDWW # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 google_site_verification: xTQYfiMoyrnCpU5we7yz3sLLHuAynuXIa0NBxjI7br0 # your google-site-verification ID (Google Search Console)
