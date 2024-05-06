@@ -9,13 +9,13 @@ nav_order: 10
 
 ## Labs
 
-I am an alumnus and currently a faculty member in
+I am an alumnus and currently a faculty member of
 - [Programming Group (a.k.a. PRG-Group)](http://prg.is.titech.ac.jp/),
   - [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/),
   - [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04),
   - [Tokyo Institute of Technology](https://www.titech.ac.jp/english).
 
-I was previously a postdoctoral researcher in
+I was previously a postdoctoral researcher of
 - [Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en),
   - [Department of Communications and Computer Engineering](https://www.cce.i.kyoto-u.ac.jp/english),
   - [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/),
