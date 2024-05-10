@@ -44,8 +44,7 @@ I am currently engaged in the following research projects:
 2. <i>Space-efficient Gradual Typing</i>. &nbsp; 👉PLDI'24 (Accepted, details coming soon!)
 3. <i>Safe Language Interoperability</i>. &nbsp; WIP.
 
-I am also working with students on projects related to language design, type systems, GPGPU, and live programming.
-For more information, please visit our ["Projects"](https://prg.is.titech.ac.jp/projects/) page.
+I am also working with [👉students](https://yudaitnb.github.io/students/) on projects related to <b><i>language design</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>live programming</i></b>.
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
