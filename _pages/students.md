@@ -18,6 +18,7 @@ If you find that our research areas align with your interests, please refer to [
   - one all but dissertation doctoral student,
   - three graduate students, and 
   - two undergraduate students
+  
 related to <b><i>language design</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>live programming</i></b>.
 
 For more information about our ongoing projects, please visit our ["Projects"](https://prg.is.titech.ac.jp/projects/) page.
