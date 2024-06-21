@@ -41,7 +41,7 @@ I am also a member of [Association for Computing Machinery](https://www.acm.org/
 My research interests focus on <b><i>programming language design</i></b> and <b><i>programming language theory</i></b>.
 I am currently engaged in the following research projects:
 1. <i>Programming Language with Versions</i>. &nbsp; [👉APLAS'23](https://link.springer.com/chapter/10.1007/978-981-99-8311-7_1), [👉SLE'22](https://dl.acm.org/doi/10.1145/3567512.3567531), [👉‹Programming›'22](https://programming-journal.org/2022/6/5/)
-2. <i>Space-efficient Gradual Typing</i>. &nbsp; 👉PLDI'24 (Accepted, details coming soon!)
+2. <i>Space-efficient Gradual Typing</i>. &nbsp; [👉PLDI'24](https://dl.acm.org/doi/10.1145/3656441)
 3. <i>Safe Language Interoperability</i>. &nbsp; WIP.
 
 I am also working with [students](https://yudaitnb.github.io/students/) on projects regarding <b><i>language design</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>live programming</i></b>.
