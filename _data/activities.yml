@@ -23,6 +23,7 @@
     - year: 2024
       items:
         - <a href="https://2024.ecoop.org/track/ecoop-2024-papers">ECOOP</a> (Extended Review Committee)
+        - <a href="https://conf.researchr.org/track/apsec-2024/apsec-2024-technical-track">APSEC</a> (External Reviewer)
     - year: 2022
       items: 
         - <a href="https://peerj.com/computer-science/">PeerJ Computer Science</a> (Reviewer)
@@ -53,14 +54,14 @@
         - <a href="https://jssst-ppl.org/workshop/2025/">JSSST PPL</a> (Treasurer)
     - year: 2024
       items: 
-        - <a href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F">APLAS SRC & Posters</a> (Organizer)
+        - <a href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F">APLAS SRC & Posters</a> (Organizer) (Co-organized with <a href="https://www.kurims.kyoto-u.ac.jp/~kmuroya/">Koko Muroya</a>)
         - <a href="https://atva-conference.org/2024/">ATVA</a> (Poster Chair)
     - year: 2023
       items: 
-        - <a href="https://conf.researchr.org/track/COP-2023/COP-2023">COP</a> (Organizing Committee)
+        - <a href="https://conf.researchr.org/track/COP-2023/COP-2023">COP</a> (Organizing Committee) (Co-organized with <a href="https://cfaed.tu-dresden.de/ccc-staff-schuetze">Lars Schütze</a>)
     - year: 2022
       items: 
-        - <a href="https://2022.ecoop.org/home/COP-2022">COP</a> (Organizing Committee)
+        - <a href="https://2022.ecoop.org/home/COP-2022">COP</a> (Organizing Committee) (Co-organized with <a href="https://jenslincke.de/">Jens Lincke</a>)
         - <a href="https://popl22.sigplan.org/home/pepm-2022">PEPM History Project</a> (Organizing Committee)
 
 - title: Other Conference Support
