@@ -1,6 +1,9 @@
 - title: Program Committee
   type: time_table
   contents:
+    - year: 2025
+      items: 
+        - <a href="https://jssst-ppl.org/workshop/2025/">PPL</a> (Program Committee)
     - year: 2024
       items: 
         - <a href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F">APLAS SRC & Posters</a> (Selection Committee & Judge)
@@ -51,7 +54,7 @@
   contents:
     - year: 2025
       items: 
-        - <a href="https://jssst-ppl.org/workshop/2025/">JSSST PPL</a> (Treasurer)
+        - <a href="https://jssst-ppl.org/workshop/2025/">PPL</a> (Treasurer)
     - year: 2024
       items: 
         - <a href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F">APLAS SRC & Posters</a> (Organizer) (Co-organized with <a href="https://www.kurims.kyoto-u.ac.jp/~kmuroya/">Koko Muroya</a>)
@@ -69,7 +72,7 @@
   contents:
     - year: 2021
       items: 
-        - <a href="https://jssst-ppl.org/workshop/2021/">JSSST PPL</a> (Panelist (Social Event))
+        - <a href="https://jssst-ppl.org/workshop/2021/">PPL</a> (Panelist (Social Event))
     - year: 2020
       items: 
         - <a href="https://2020.splashcon.org/">SPLASH</a> (Student Volunteer)
