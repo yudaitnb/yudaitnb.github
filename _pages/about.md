@@ -18,11 +18,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 Assistant Professor
 
-I am an Assistant Professor in [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english).
+I am an Assistant Professor in [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Institute of Science Tokyo](https://www.isct.ac.jp/en) (renamed in 2024 following a university merger with [TMDU](https://www.tmd.ac.jp/english/), formerly [Tokyo Institute of Technology](https://www.titech.ac.jp/english)).
 
 I received B.S. degree from Department of Information Science, School of Science, [Tokyo Institute of Technology](https://www.titech.ac.jp/english) in 2018, and M.S. and D.S. degrees from [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english) 2020 and 2023 respectively.
 
-Formerly, I was a JSPS Research Fellow at Tokyo Institute of Technology (2022-2023), and a program-specific researcher (postdoctoral position) at Kyoto University (2023-2024).
+Formerly, I was a JSPS Research Fellow at Tokyo Institute of Technology (2022-2023), a program-specific researcher (postdoctoral position) at Kyoto University (2023-2024), and an Assistant Professor in [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english) (2024).
 
 I am also a member of [Association for Computing Machinery](https://www.acm.org/).
 
