@@ -13,7 +13,7 @@ I am an alumnus and currently a faculty member of
 - [Programming Group (a.k.a. PRG-Group)](http://prg.is.titech.ac.jp/),
   - [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/),
   - [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04),
-  - [Institute of Science Tokyo](https://www.isct.ac.jp/en) <span style="font-size:0.8em">(renamed in 2024 following a university merger with TMDU, formerly Tokyo Institute of Technology)</span>.
+  - [Institute of Science Tokyo](https://www.isct.ac.jp/en) <span style="font-size:0.8em">(renamed in 2024 following a university merger with [TMDU](https://www.tmd.ac.jp/english/), formerly [Tokyo Institute of Technology](https://www.titech.ac.jp/english))</span>.
 
 I was previously a postdoctoral researcher of
 - [Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en),
