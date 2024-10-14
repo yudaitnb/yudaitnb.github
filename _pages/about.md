@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Assistant Professor
 
-I am an <i>assistant professor</i> in [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Institute of Science Tokyo](https://www.isct.ac.jp/en) <span style="font-size:0.8em">(renamed in 2024 following a university merger with [TMDU](https://www.tmd.ac.jp/english/), formerly [Tokyo Institute of Technology](https://www.titech.ac.jp/english))</span>.
+I am an <i>assistant professor</i> in [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Institute of Science Tokyo](https://www.isct.ac.jp/en) <span style="font-size:0.8em">(renamed in 2024 after merging with [TMDU](https://www.tmd.ac.jp/english/), formerly [Tokyo Institute of Technology](https://www.titech.ac.jp/english))</span>.
 
 I received B.S. degree from Department of Information Science, School of Science, [Tokyo Institute of Technology](https://www.titech.ac.jp/english) in 2018, and M.S. and D.S. degrees from [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english) 2020 and 2023 respectively.
 
