@@ -36,6 +36,7 @@ I was previously a postdoctoral researcher of
 ### 2025
 - [PPL 2025](https://jssst-ppl.org/workshop/2025/) in Aichi, Japan (March 2025)
 - Visit to [Sekiyama lab (National Institute of Infomatics)](https://www.nii.ac.jp/en/faculty/architecture/sekiyama_taro/) for PL Joint Seminar in Tokyo, Japan (January 2025)
+
 ### 2024
 - Host PL Joint Seminar at Institute of Science Tokyo in Tokyo, Japan (December 2024)
 - Visit to [Group MMSD (National Institute of Infomatics)](https://group-mmm.org/eratommsd/about/) for PL Joint Seminar in Tokyo, Japan (November 2024)
@@ -47,6 +48,7 @@ I was previously a postdoctoral researcher of
 - Online participation in [PRO 2024-1](https://sigpro.ipsj.or.jp/pro2024-1/) (June 2024)
 - Visit to [Sekiyama-lab (National Institute of Infomatics)](https://www.nii.ac.jp/en/faculty/architecture/sekiyama_taro/) in Tokyo, Japan (April 2025)
 - [PPL 2024](https://jssst-ppl.org/workshop/2024/) in Niigata, Japan (March 2024)
+
 ### 2023
 - [APSEC 2023](https://conf.researchr.org/home/apsec-2023) in Seoul, Korea (December 2023)
 - [APLAS 2023](https://conf.researchr.org/home/aplas-2023) in Taipei, Taiwan (November 2023)
@@ -54,23 +56,29 @@ I was previously a postdoctoral researcher of
 - [ECOOP & ISSTA 2023](https://conf.researchr.org/home/ecoop-issta-2023) in Seattle, USA (July 2023)
 - Visit to [Computer Software Group (Kyoto University)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (March 2023)
 - [‹Programming› 2023](https://2023.programming-conference.org/) in Tokyo, Japan (March 2023)
+
 ### 2022
 - Visit to [Software Architecture Group (Hasso Plattner Institute)](https://www.hpi.uni-potsdam.de/hirschfeld/index.html) in Berlin, Germany (July 2022)
 - [ECOOP 2022](https://2022.ecoop.org/) in Berlin, Germany (July 2022)
+
 ### 2020
 - A lot of online participations under the pandemic.
 - 2-month online internship at [IBM Research Tokyo](http://www.research.ibm.com/labs/tokyo/) (November & December 2020)
+
 ### 2021
 - A lot of online participations under the pandemic.
+
 ### 2019
 - [PRO 2019-1](https://sigpro.ipsj.or.jp/pro2019-1/) in Nagoya, Japan (June 2019)
 - [PPL 2019](https://jssst-ppl.org/workshop/2019/) in Iwate, Japan (March 2019)
+
 ### 2018
 - 2-month internship at [IBM Research Tokyo](http://www.research.ibm.com/labs/tokyo/) in Tokyo, Japan (September & October 2018)
 - Kumiki meeting 6.0, Kyushu University, Fukuoka, Japan (September 2018)
 - [ECOOP & ISSTA 2018](https://2018.ecoop.org/) in Amsterdam, Netherlands (July 2018)
 - [PPL 2018](https://jssst-ppl.org/workshop/2018/) in Tottori, Japan (March 2018)
 - [PRO 2017-5](https://sigpro.ipsj.or.jp/pro2017-5/) in Tokyo, Japan (February & March 2018)
+
 ### 2017
 - [JSSST 2017](https://jssst2017.wordpress.com/) in Tokyo, Japan (September 2017)
 
