@@ -46,7 +46,7 @@ I was previously a postdoctoral researcher of
 - [PLDI 2024](https://pldi24.sigplan.org/) in Copenhagen, Denmark (June 2024)
 - Visit to [Computer Software Group (Kyoto University](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (July 2025)
 - Online participation in [PRO 2024-1](https://sigpro.ipsj.or.jp/pro2024-1/) (June 2024)
-- Visit to [Sekiyama-lab (National Institute of Infomatics)](https://www.nii.ac.jp/en/faculty/architecture/sekiyama_taro/) in Tokyo, Japan (April 2025)
+- Visit to [Sekiyama lab (National Institute of Infomatics)](https://www.nii.ac.jp/en/faculty/architecture/sekiyama_taro/) in Tokyo, Japan (April 2025)
 - [PPL 2024](https://jssst-ppl.org/workshop/2024/) in Niigata, Japan (March 2024)
 
 ### 2023
