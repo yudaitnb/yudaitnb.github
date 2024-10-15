@@ -70,7 +70,7 @@ I was previously a postdoctoral researcher of
 - Kumiki meeting 6.0, Kyushu University, Fukuoka, Japan (September 2018)
 - [ECOOP & ISSTA 2018](https://2018.ecoop.org/) in Amsterdam, Netherlands (July 2018)
 - [PPL 2018](https://jssst-ppl.org/workshop/2018/) in Tottori, Japan (March 2018)
-- [PRO 2017-5](https://sigpro.ipsj.or.jp/pro2017-5/) in Tokyo, Japan (February 2018)
+- [PRO 2017-5](https://sigpro.ipsj.or.jp/pro2017-5/) in Tokyo, Japan (February & March 2018)
 ### 2017
 - [JSSST 2017](https://jssst2017.wordpress.com/) in Tokyo, Japan (September 2017)
 
