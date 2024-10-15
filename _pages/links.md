@@ -61,13 +61,18 @@ I was previously a postdoctoral researcher of
 ### 2022
 - Visit to [Software Architecture Group (Hasso Plattner Institute)](https://www.hpi.uni-potsdam.de/hirschfeld/index.html) in Berlin, Germany (July 2022)
 - [ECOOP 2022](https://2022.ecoop.org/) in Berlin, Germany (July 2022)
+- Online participation in [POPL 2022](https://popl22.sigplan.org/)
 
 ### 2021
-- A lot of online participations under the pandemic.
+- A lot of online participations under the pandemic such as:
+  - [POPL 2021](https://popl21.sigplan.org/)
+  - [PLDI 2021](https://pldi21.sigplan.org/)
 - 2-month online internship at [IBM Research Tokyo](http://www.research.ibm.com/labs/tokyo/) (November & December 2020)
 
 ### 2020
-- A lot of online participations under the pandemic.
+- A lot of online participations under the pandemic such as:
+  - [ICFP 2020](https://icfp20.sigplan.org/)
+  - [SPLASH 2020](https://2020.splashcon.org/venue/splash-2020-venue).
 
 ### 2019
 - [PRO 2019-1](https://sigpro.ipsj.or.jp/pro2019-1/) in Nagoya, Japan (June 2019)
