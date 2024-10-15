@@ -44,9 +44,9 @@ I was previously a postdoctoral researcher of
 - [APLAS 2024](https://conf.researchr.org/home/aplas-2024) in Kyoto, Japan (October 2024)
 - [JSSST 2024](https://jssst2024.wordpress.com/) in Osaka, Japan (September 2024)
 - [PLDI 2024](https://pldi24.sigplan.org/) in Copenhagen, Denmark (June 2024)
-- Visit to [Computer Software Group (Kyoto University)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (July 2025)
+- Visit to [Computer Software Group (Kyoto University)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (July 2024)
 - Online participation in [PRO 2024-1](https://sigpro.ipsj.or.jp/pro2024-1/) (June 2024)
-- Visit to [Sekiyama lab (NII)](https://www.nii.ac.jp/en/faculty/architecture/sekiyama_taro/) in Tokyo, Japan (April 2025)
+- Visit to [Sekiyama lab (NII)](https://www.nii.ac.jp/en/faculty/architecture/sekiyama_taro/) in Tokyo, Japan (April 2024)
 - [PPL 2024](https://jssst-ppl.org/workshop/2024/) in Niigata, Japan (March 2024)
 
 ### 2023
