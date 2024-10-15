@@ -59,14 +59,14 @@ I was previously a postdoctoral researcher of
   - [ECOOP 2022](https://2022.ecoop.org/) in Berlin, Germany (July 2022)
 - 2020
   - A lot of online participations under the pandemic.
-  - Online participation in an internship in [IBM Research Tokyo](http://www.research.ibm.com/labs/tokyo/) (November & December 2020)
+  - 2-month online internship at [IBM Research Tokyo](http://www.research.ibm.com/labs/tokyo/) (November & December 2020)
 - 2021
   - A lot of online participations under the pandemic.
 - 2019
   - [PRO 2019-1](https://sigpro.ipsj.or.jp/pro2019-1/) in Nagoya, Japan (June 2019)
   - [PPL 2019](https://jssst-ppl.org/workshop/2019/) in Iwate, Japan (March 2019)
 - 2018
-  - Visit to [IBM Research Tokyo](http://www.research.ibm.com/labs/tokyo/) for an internship (September & October 2018)
+  - 2-month internship at [IBM Research Tokyo](http://www.research.ibm.com/labs/tokyo/) in Tokyo, Japan (September & October 2018)
   - Kumiki meeting 6.0, Kyushu University, Fukuoka, Japan (September 2018)
   - [ECOOP & ISSTA 2018](https://2018.ecoop.org/) in Amsterdam, Netherlands (July 2018)
   - [PPL 2018](https://jssst-ppl.org/workshop/2018/) in Tottori, Japan (March 2018)
