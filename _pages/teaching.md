@@ -9,7 +9,7 @@ toc:
   # sidebar: left
 ---
 
-## Lecturing
+## Lecture
 #### at Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
 - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432846&Nendo=2024&LeftTab=graduate&lang=EN&vid=03" class="font-weight-bold">Forum on Computing</a> (<a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432847&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">F3</a>, <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432849&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">F4</a>, <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432851&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">F5</a>), <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.<br>2024 3Q-4Q (October~)
 
@@ -18,7 +18,7 @@ toc:
 - <a class="font-weight-bold" href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202402398&Nendo=2024&vid=03&lang=EN">Programming II</a>, <span style="font-style: italic;">Lecturer</span>. Tokyo Institute of Technology.<br>2024 1Q (April~)
 
 
-## Supporting in Coursework
+## Coursework Support
 #### at Tokyo Institute of Technology
 - <a class="font-weight-bold" href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202002384&Nendo=2020&vid=03&lang=EN">Programming I</a>, <span style="font-style: italic;">Teaching Assistant</span>. Tokyo Institute of Technology. <!--<a class="font-weight-bold" href="https://prg1-2020.github.io/lecture/web/">Class</a> --><br>2020 3Q (October~)
 - <a class="font-weight-bold" href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110800&KougiCD=202007189&Nendo=2020&vid=03">Information Literacy 2 (class 3b)</a>, <span style="font-style: italic;">Teaching Assistant</span>. Tokyo Institute of Technology. <!--<a class="font-weight-bold" href="https://titechcomp.github.io/y20-il2j/">3b</a>--><br>2020 2Q (June~)
