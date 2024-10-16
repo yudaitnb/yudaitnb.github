@@ -59,7 +59,8 @@ I was previously a postdoctoral researcher of
 
 #### 2021
 - 2-month online internship at [IBM Research Tokyo](http://www.research.ibm.com/labs/tokyo/) (November & December 2021)
-- Online participation in [SPLASH/ISSTA 2021](https://2021.splashcon.org/) (October 2020)
+- Online participation in [ICFP 2021](https://icfp21.sigplan.org/) (August 2021)
+- Online participation in [ECOOP/ISSTA 2021](https://2021.ecoop.org/) (July 2021)
 - Online participation in [PLDI 2021](https://pldi21.sigplan.org/) (June 2021)
 - Online participation in [PPL 2021](https://jssst-ppl.org/workshop/2021/) (March 2021)
 - Online participation in [POPL 2021](https://popl21.sigplan.org/) (January 2021)
