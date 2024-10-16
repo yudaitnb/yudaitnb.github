@@ -40,10 +40,10 @@ I was previously a postdoctoral researcher of
 ### 2024
 - Host PL Joint Seminar at Institute of Science Tokyo in Tokyo, Japan (December 2024)
 - Half-day visit to [Group MMSD (NII)](https://group-mmm.org/eratommsd/about/) for PL Joint Seminar in Tokyo, Japan (November 2024)
-- Half-day visit to [Kobayashi lab (The University of Tokyo)](https://www-kb.is.s.u-tokyo.ac.jp/index.html.en) for PL Joint Seminar in Tokyo, Japan (October 2024)
+- Half-day visit to [Kobayashi lab (UTokyo)](https://www-kb.is.s.u-tokyo.ac.jp/index.html.en) for PL Joint Seminar in Tokyo, Japan (October 2024)
 - [APLAS 2024](https://conf.researchr.org/home/aplas-2024) in Kyoto, Japan (October 2024)
 - [JSSST 2024](https://jssst2024.wordpress.com/) in Osaka, Japan (September 2024)
-- 2-days visit to [Computer Software Group (Kyoto University)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (July 2024)
+- 2-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (July 2024)
 - [PLDI 2024](https://pldi24.sigplan.org/) in Copenhagen, Denmark (June 2024)
 - Online participation in [PRO 2024-1](https://sigpro.ipsj.or.jp/pro2024-1/) (June 2024)
 - Online participation in [The 7th STAIR Lab ST Seminar](https://stair.center/archives/events/%e7%ac%ac7%e5%9b%9e%e3%82%b9%e3%83%86%e3%82%a2%e3%83%a9%e3%83%9c%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e6%8a%80%e8%a1%93%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc-%e7%94%b0%e8%be%ba%e8%a3%95) (May 2024)
@@ -55,11 +55,11 @@ I was previously a postdoctoral researcher of
 - [APLAS 2023](https://conf.researchr.org/home/aplas-2023) in Taipei, Taiwan (November 2023)
 - [SLACS 2023](https://lambda.ski/slacs2023/) in Kyoto, Japan (August & Septemebr 2023)
 - [ECOOP & ISSTA 2023](https://conf.researchr.org/home/ecoop-issta-2023) in Seattle, USA (July 2023)
-- 1-day visit to [Computer Software Group (Kyoto University)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (March 2023)
+- 1-day visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (March 2023)
 - [‹Programming› 2023](https://2023.programming-conference.org/) in Tokyo, Japan (March 2023)
 
 ### 2022
-- Visit to [Software Architecture Group (Hasso Plattner Institute)](https://www.hpi.uni-potsdam.de/hirschfeld/index.html) in Berlin, Germany (July 2022)
+- Visit to [Software Architecture Group (HPI)](https://www.hpi.uni-potsdam.de/hirschfeld/index.html) in Berlin, Germany (July 2022)
 - [ECOOP 2022](https://2022.ecoop.org/) in Berlin, Germany (July 2022)
 - Online participation in [‹Programming› 2022](https://2022.programming-conference.org/) (April 2022)
 - Online participation in [PPL 2022](https://jssst-ppl.org/workshop/2022/) (March 2022)
