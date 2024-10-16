@@ -59,7 +59,7 @@ I was previously a postdoctoral researcher of
 - [‹Programming› 2023](https://2023.programming-conference.org/) in Tokyo, Japan (March 2023)
 
 ### 2022
-- Visit to [Software Architecture Group (HPI)](https://www.hpi.uni-potsdam.de/hirschfeld/index.html) in Berlin, Germany (July 2022)
+- Half-day visit to [Software Architecture Group (HPI)](https://www.hpi.uni-potsdam.de/hirschfeld/index.html) in Berlin, Germany (July 2022)
 - [ECOOP 2022](https://2022.ecoop.org/) in Berlin, Germany (July 2022)
 - Online participation in [‹Programming› 2022](https://2022.programming-conference.org/) (April 2022)
 - Online participation in [PPL 2022](https://jssst-ppl.org/workshop/2022/) (March 2022)
