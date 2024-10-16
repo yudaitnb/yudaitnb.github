@@ -21,23 +21,15 @@ I was previously a postdoctoral researcher of
   - [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/),
   - [Kyoto University](https://www.kyoto-u.ac.jp/en).
 
-## Tools
-
-- [PL Conference Deadlines](https://yeah-tiger.github.io/)
-- [Doctoral Students Funding Calendar](https://kn1cht.github.io/doctor-funding-calendar/) (for PhD students in Japan)
-- [ACM Digital Library](https://dl.acm.org/profile/99659304893)
-
-<br>
-
 ---
 
 ## Visits
 
-### 2025
+#### 2025
 - [PPL 2025](https://jssst-ppl.org/workshop/2025/) in Aichi, Japan (March 2025)
 - Half-day visit to [Sekiyama lab (NII)](https://www.nii.ac.jp/en/faculty/architecture/sekiyama_taro/) for PL Joint Seminar in Tokyo, Japan (January 2025)
 
-### 2024
+#### 2024
 - Host PL Joint Seminar at Institute of Science Tokyo in Tokyo, Japan (December 2024)
 - Half-day visit to [Group MMSD (NII)](https://group-mmm.org/eratommsd/about/) for PL Joint Seminar in Tokyo, Japan (November 2024)
 - Half-day visit to [Kobayashi lab (UTokyo)](https://www-kb.is.s.u-tokyo.ac.jp/index.html.en) for PL Joint Seminar in Tokyo, Japan (October 2024)
@@ -50,7 +42,7 @@ I was previously a postdoctoral researcher of
 - 1-day visit to [Sekiyama lab (NII)](https://www.nii.ac.jp/en/faculty/architecture/sekiyama_taro/) in Tokyo, Japan (April 2024)
 - [PPL 2024](https://jssst-ppl.org/workshop/2024/) in Niigata, Japan (March 2024)
 
-### 2023
+#### 2023
 - [APSEC 2023](https://conf.researchr.org/home/apsec-2023) in Seoul, Korea (December 2023)
 - [APLAS 2023](https://conf.researchr.org/home/aplas-2023) in Taipei, Taiwan (November 2023)
 - [SLACS 2023](https://lambda.ski/slacs2023/) in Kyoto, Japan (August & Septemebr 2023)
@@ -58,39 +50,45 @@ I was previously a postdoctoral researcher of
 - 1-day visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (March 2023)
 - [‹Programming› 2023](https://2023.programming-conference.org/) in Tokyo, Japan (March 2023)
 
-### 2022
+#### 2022
 - Half-day visit to [Software Architecture Group (HPI)](https://www.hpi.uni-potsdam.de/hirschfeld/index.html) in Berlin, Germany (July 2022)
 - [ECOOP 2022](https://2022.ecoop.org/) in Berlin, Germany (July 2022)
 - Online participation in [‹Programming› 2022](https://2022.programming-conference.org/) (April 2022)
 - Online participation in [PPL 2022](https://jssst-ppl.org/workshop/2022/) (March 2022)
 - Online participation in [POPL 2022](https://popl22.sigplan.org/) (January 2022)
 
-### 2021
+#### 2021
 - 2-month online internship at [IBM Research Tokyo](http://www.research.ibm.com/labs/tokyo/) (November & December 2021)
 - Online participation in [PLDI 2021](https://pldi21.sigplan.org/) (June 2021)
 - Online participation in [PPL 2021](https://jssst-ppl.org/workshop/2021/) (March 2021)
 - Online participation in [POPL 2021](https://popl21.sigplan.org/) (January 2021)
 
-### 2020
+#### 2020
 - Online participation in [SPLASH 2020](https://2020.splashcon.org/venue/splash-2020-venue) (November 2020)
 - Online participation in [ICFP 2020](https://icfp20.sigplan.org/) (August 2020)
-- (Canceled due to the pandemic) [PPL 2020](https://jssst-ppl.org/workshop/2020/) in Saga, Japan (March 2020)
+- (Canceled due to COVID-19) [PPL 2020](https://jssst-ppl.org/workshop/2020/) in Saga, Japan (March 2020)
 
-### 2019
+#### 2019
 - [PRO 2019-1](https://sigpro.ipsj.or.jp/pro2019-1/) in Nagoya, Japan (June 2019)
 - [PPL 2019](https://jssst-ppl.org/workshop/2019/) in Iwate, Japan (March 2019)
 
-### 2018
+#### 2018
 - 2-month internship at [IBM Research Tokyo](http://www.research.ibm.com/labs/tokyo/) in Tokyo, Japan (September & October 2018)
 - Kumiki meeting 6.0 at Kyushu University in Fukuoka, Japan (September 2018)
 - [ECOOP & ISSTA 2018](https://2018.ecoop.org/) in Amsterdam, Netherlands (July 2018)
 - [PPL 2018](https://jssst-ppl.org/workshop/2018/) in Tottori, Japan (March 2018)
 - [PRO 2017-5](https://sigpro.ipsj.or.jp/pro2017-5/) in Tokyo, Japan (February & March 2018)
 
-### 2017
+#### 2017
 - [JSSST 2017](https://jssst2017.wordpress.com/) in Tokyo, Japan (September 2017)
 
 --- 
+
+## Tools
+
+- [PL Conference Deadlines](https://yeah-tiger.github.io/)
+- [Doctoral Students Funding Calendar](https://kn1cht.github.io/doctor-funding-calendar/) (for PhD students in Japan)
+- [ACM Digital Library](https://dl.acm.org/profile/99659304893)
 
 ## International Conference
 
