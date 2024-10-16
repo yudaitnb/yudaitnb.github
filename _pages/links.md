@@ -46,7 +46,7 @@ I was previously a postdoctoral researcher of
 - [APSEC 2023](https://conf.researchr.org/home/apsec-2023) in Seoul, Korea (December 2023)
 - [APLAS 2023](https://conf.researchr.org/home/aplas-2023) in Taipei, Taiwan (November 2023)
 - [SLACS 2023](https://lambda.ski/slacs2023/) in Kyoto, Japan (August & Septemebr 2023)
-- [ECOOP & ISSTA 2023](https://conf.researchr.org/home/ecoop-issta-2023) in Seattle, USA (July 2023)
+- [ECOOP/ISSTA 2023](https://conf.researchr.org/home/ecoop-issta-2023) in Seattle, USA (July 2023)
 - 1-day visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (March 2023)
 - [‹Programming› 2023](https://2023.programming-conference.org/) in Tokyo, Japan (March 2023)
 
@@ -59,12 +59,13 @@ I was previously a postdoctoral researcher of
 
 #### 2021
 - 2-month online internship at [IBM Research Tokyo](http://www.research.ibm.com/labs/tokyo/) (November & December 2021)
+- Online participation in [SPLASH/ISSTA 2021](https://2021.splashcon.org/) (October 2020)
 - Online participation in [PLDI 2021](https://pldi21.sigplan.org/) (June 2021)
 - Online participation in [PPL 2021](https://jssst-ppl.org/workshop/2021/) (March 2021)
 - Online participation in [POPL 2021](https://popl21.sigplan.org/) (January 2021)
 
 #### 2020
-- Online participation in [SPLASH 2020](https://2020.splashcon.org/venue/splash-2020-venue) (November 2020)
+- Online participation in [SPLASH/ECOOP 2020](https://2020.splashcon.org/) (November 2020)
 - Online participation in [ICFP 2020](https://icfp20.sigplan.org/) (August 2020)
 - (Canceled due to COVID-19) [PPL 2020](https://jssst-ppl.org/workshop/2020/) in Saga, Japan (March 2020)
 
@@ -75,7 +76,7 @@ I was previously a postdoctoral researcher of
 #### 2018
 - 2-month internship at [IBM Research Tokyo](http://www.research.ibm.com/labs/tokyo/) in Tokyo, Japan (September & October 2018)
 - Kumiki meeting 6.0 at Kyushu University in Fukuoka, Japan (September 2018)
-- [ECOOP & ISSTA 2018](https://2018.ecoop.org/) in Amsterdam, Netherlands (July 2018)
+- [ECOOP/ISSTA 2018](https://2018.ecoop.org/) in Amsterdam, Netherlands (July 2018)
 - [PPL 2018](https://jssst-ppl.org/workshop/2018/) in Tottori, Japan (March 2018)
 - [PRO 2017-5](https://sigpro.ipsj.or.jp/pro2017-5/) in Tokyo, Japan (February & March 2018)
 
