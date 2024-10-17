@@ -32,6 +32,7 @@ I was previously a postdoctoral researcher of
 #### 2024
 - Host PL Joint Seminar at Institute of Science Tokyo in Tokyo, Japan (December 2024)
 - Half-day visit to [Group MMSD (NII)](https://group-mmm.org/eratommsd/about/) for PL Joint Seminar in Tokyo, Japan (November 2024)
+- [PRO 2024-3](https://sigpro.ipsj.or.jp/pro2024-3/) at Institute of Science Tokyo in Tokyo, Japan (November 2024)
 - Half-day visit to [Kobayashi lab (UTokyo)](https://www-kb.is.s.u-tokyo.ac.jp/index.html.en) for PL Joint Seminar in Tokyo, Japan (October 2024)
 - [APLAS 2024](https://conf.researchr.org/home/aplas-2024) in Kyoto, Japan (October 2024)
 - [JSSST 2024](https://jssst2024.wordpress.com/) in Osaka, Japan (September 2024)
